@@ -1,0 +1,9 @@
+name,price,url
+"Овощные чипсы Самокат, из тыквы, с солью, 30 г",129.00,https://samokat.ru/product/ovoshchnye-chipsy-samokat-iz-tykvy-s-solyu-30-g
+"Грушевые слайсы Самокат, 25 г",135.00,https://samokat.ru/product/grushevye-slaysy-samokat-25-g
+"Томатные слайсы Самокат, 25 г",129.00,https://samokat.ru/product/tomatnye-slaysy-samokat-25-g
+"Яблочные слайсы Самокат, 30 г",135.00,https://samokat.ru/product/yablochnye-slaysy-samokat-30-g
+"Банановые чипсы Семушка, 150 г",225.00,https://samokat.ru/product/bananovye-chipsy-semushka-150-g
+"Шарики Вкусы мира, из сушёного манго, 80 г",240.00,https://samokat.ru/product/shariki-vkusy-mira-iz-sushyonogo-mango-80-g
+"Ломтики Wenwen, из ямса, пряный соус, 30 г",48.00,https://samokat.ru/product/lomtiki-wenwen-iz-yamsa-pryanyy-sous-30-g
+"Хрустящий снек Самокат, клубника и банан, 15 г",159.00,https://samokat.ru/product/khrustyashchiy-snek-samokat-klubnika-i-banan-15-g

@@ -1,0 +1,15 @@
+name,price,url
+"Начос Самокат, томат с базиликом, 150 г",169.00,https://samokat.ru/product/nachos-samokat-tomat-s-bazilikom-150-g
+"Начос Самокат, сыр с халапеньо, 150 г",179.00,https://samokat.ru/product/nachos-samokat-syr-s-khalapeno-150-g
+"Кукурузные палочки Самокат, апельсин, 70 г",53.00,https://samokat.ru/product/kukuruznye-palochki-samokat-apelsin-70-g
+"Кукурузные снеки Cheetos, со вкусом пиццы, 43 г",85.00,https://samokat.ru/product/kukuruznye-sneki-cheetos-so-vkusom-pitstsy-43-g
+"Кукурузные снеки Cheetos, сладкий тай чили, 70 г",95.00,https://samokat.ru/product/kukuruznye-sneki-cheetos-sladkiy-tay-chili-70-g
+"Кукурузные снеки Cheetos, сыр, 85 г",105.00,https://samokat.ru/product/kukuruznye-sneki-cheetos-syr-85-g
+"Тарелка Ох! керамика Соцветие керамическая, глубокая, 1 шт.",1050.00,https://samokat.ru/product/tarelka-okh-keramika-sotsvetie-keramicheskaya-glubokaya-1-sht
+"Кукурузные снеки Cheetos, кетчуп, 85 г",105.00,https://samokat.ru/product/kukuruznye-sneki-cheetos-ketchup-85-g
+"Кукурузные снеки Cheetos, сыр, 130 г",139.00,https://samokat.ru/product/kukuruznye-sneki-cheetos-syr-130-g
+"Кукурузные снеки Cheetos, краб, 50 г",75.00,https://samokat.ru/product/kukuruznye-sneki-cheetos-krab-50-g
+"Снеки Lolls Enjoy, Crispy Slices, каракатица и чёрный трюфель, 50 г",199.00,https://samokat.ru/product/sneki-lolls-enjoy-crispy-slices-karakatitsa-i-chyornyy-tryufel-50-g
+"Кукурузные палочки Кузя Лакомкин, с сахарной пудрой, 140 г",99.00,https://samokat.ru/product/kukuruznye-palochki-kuzya-lakomkin-s-sakharnoy-pudroy-140-g
+"Кукурузные чипсы Gramzz, начо сыр, 55 г",74.00,https://samokat.ru/product/kukuruznye-chipsy-gramzz-nacho-syr-55-g
+"Кукурузные чипсы Gramzz, пикантная паприка, 55 г",74.00,https://samokat.ru/product/kukuruznye-chipsy-gramzz-pikantnaya-paprika-55-g

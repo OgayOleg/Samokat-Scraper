@@ -1,0 +1,7 @@
+name,price,url
+"Из Кореи: Морская капуста Самокат, сушёная, с васаби, 17 г",265.00,https://samokat.ru/product/iz-korei-morskaya-kapusta-samokat-sushyonaya-s-vasabi-17-g
+"Из Кореи: Чипсы темпура Самокат, из морской капусты, 50 г",180.00,https://samokat.ru/product/iz-korei-chipsy-tempura-samokat-iz-morskoy-kapusty-50-g
+"Из Кореи: Морская капуста Самокат, сушёная, 17 г",265.00,https://samokat.ru/product/iz-korei-morskaya-kapusta-samokat-sushyonaya-17-g
+"Морская капуста Самокат, сушёная, корейское барбекю, 17 г",299.00,https://samokat.ru/product/morskaya-kapusta-samokat-sushyonaya-koreyskoe-barbekyu-17-g
+"Водоросли Narmak нори, 100 листов",1621.00,https://samokat.ru/product/vodorosli-narmak-nori-100-listov
+Тарелка с голубой глазурью ROOMI Вафелька,738.00,https://samokat.ru/product/tarelka-s-goluboy-glazuryu-roomi-vafelka

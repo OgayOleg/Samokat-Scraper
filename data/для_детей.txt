@@ -1,0 +1,22 @@
+name,price,url
+"Творог Самокат, 5%, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-samokat-5-s-6-mesyatsev-100-g
+"Творог Самокат, 4,2%, с грушей, с 6 месяцев, 100 г",59.00,https://samokat.ru/product/tvorog-samokat-4-2-s-grushey-s-6-mesyatsev-100-g
+"Бифилайф Самокат, 2,5%, яблоко и банан, с 8 месяцев, 210 г",59.00,https://samokat.ru/product/bifilayf-samokat-2-5-yabloko-i-banan-s-8-mesyatsev-210-g
+"Бифилайф Самокат, 2,5%, черника, с 8 месяцев, 210 г",59.00,https://samokat.ru/product/bifilayf-samokat-2-5-chernika-s-8-mesyatsev-210-g
+"Творог Агуша, 4,5%, с 6 месяцев, 100 г",47.00,https://samokat.ru/product/tvorog-agusha-4-5-s-6-mesyatsev-100-g
+"Творог Агуша, 3,9%, яблоко и банан, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-3-9-yabloko-i-banan-s-6-mesyatsev-100-g
+"Творог Агуша Засыпай-ка, 3,8%, клубника, банан и мелисса, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-zasypay-ka-3-8-klubnika-banan-i-melissa-s-6-mesyatsev-100-g
+"Творог Агуша, 3,9%, груша, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-3-9-grusha-s-6-mesyatsev-100-g
+"Кефир Агуша Первая ложка, 3,2%, с 8 месяцев, 200 мл",56.00,https://samokat.ru/product/kefir-agusha-pervaya-lozhka-3-2-s-8-mesyatsev-200-ml
+"Молоко Агуша, 3,2%, для детей, ультрапастеризованное, 950 г",155.00,https://samokat.ru/product/moloko-agusha-3-2-dlya-detey-ultrapasterizovannoe-950-g
+"Молоко Агуша, для детей, 2,5%, стерилизованное, с 8 месяцев, 200 мл",59.00,https://samokat.ru/product/moloko-agusha-dlya-detey-2-5-sterilizovannoe-s-8-mesyatsev-200-ml
+"Молоко Агуша, 3,2%, для детей, ультрапастеризованное, витаминизированное, 500 г",95.00,https://samokat.ru/product/moloko-agusha-3-2-dlya-detey-ultrapasterizovannoe-vitaminizirovannoe-500-g
+"Биолакт Тёма, 3,4%, без сахара, с 8 месяцев, 206 г",59.00,https://samokat.ru/product/biolakt-tyoma-3-4-bez-sakhara-s-8-mesyatsev-206-g
+"Кисломолочный биолакт Тёма, 3%, клубника и банан, с 8 месяцев, 206 г",59.00,https://samokat.ru/product/kislomolochnyy-biolakt-tyoma-3-klubnika-i-banan-s-8-mesyatsev-206-g
+"Биотворог Тёма, 4%, с клубникой и бананом, с 6 месяцев, 95 г",59.00,https://samokat.ru/product/biotvorog-tyoma-4-s-klubnikoy-i-bananom-s-6-mesyatsev-95-g
+"Молоко Тёма, для детей, 3,2%, ультрапастеризованное, с 8 месяцев, 200 мл",59.00,https://samokat.ru/product/moloko-tyoma-dlya-detey-3-2-ultrapasterizovannoe-s-8-mesyatsev-200-ml
+"Кисломолочный напиток Actimuno, Рич Клубнич, 1,5%, с клубникой, с 3 лет, 95 г",49.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-rich-klubnich-1-5-s-klubnikoy-s-3-let-95-g
+"Кисломолочный напиток Actimuno, Кибер Персик, 1,5%, с персиком и малиной, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-kiber-persik-1-5-s-persikom-i-malinoy-s-3-let-95-g
+"Творог Растишка, 3,5%, клубника и банан, с печеньем, с 3 лет, 108 г",95.00,https://samokat.ru/product/tvorog-rastishka-3-5-klubnika-i-banan-s-pechenem-s-3-let-108-g
+"Йогурт Растишка, 3%, яблоко и груша, с печеньем, с 3 лет, 118 г",60.00,https://samokat.ru/product/yogurt-rastishka-3-yabloko-i-grusha-s-pechenem-s-3-let-118-g
+"Питьевой йогурт Растишка, пломбир с голубикой, с 3 лет, 90 г",44.00,https://samokat.ru/product/pitevoy-yogurt-rastishka-plombir-s-golubikoy-s-3-let-90-g

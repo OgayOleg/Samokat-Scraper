@@ -1,0 +1,13 @@
+name,price,url
+"Сметана Самокат, 15%, 300 г",109.00,https://samokat.ru/product/smetana-samokat-15-300-g-1
+"Сметана Самокат 20%, 200 г",89.00,https://samokat.ru/product/smetana-samokat-20-200-g
+"Сметана Самокат, 20%, 300 г",129.00,https://samokat.ru/product/smetana-samokat-20-300-g-1
+"Сметана Домик в деревне, 15%, 300 г",99.00,https://samokat.ru/product/smetana-domik-v-derevne-15-300-g
+"Сметана Простоквашино 15%, 300 г",115.00,https://samokat.ru/product/smetana-prostokvashino-15-300-g
+"Сметана Простоквашино, 20%, 300 г",139.00,https://samokat.ru/product/smetana-prostokvashino-20-300-g
+"Сметана Чабан, 15%, 300 г",119.00,https://samokat.ru/product/smetana-chaban-15-300-g
+"Сметана Чабан, 40%, 180 г",139.00,https://samokat.ru/product/smetana-chaban-40-180-g
+"Сметана Danke, 15%, безлактозная, 300 г",135.00,https://samokat.ru/product/smetana-danke-15-bezlaktoznaya-300-g
+"Сметана Простоквашино, 10%, 300 г",85.00,https://samokat.ru/product/smetana-prostokvashino-10-300-g
+"Сметана Экомилк, 20%, 300 г",135.00,https://samokat.ru/product/smetana-ekomilk-20-300-g
+"Сметана Экомилк, 15%, 300 г",109.00,https://samokat.ru/product/smetana-ekomilk-15-300-g

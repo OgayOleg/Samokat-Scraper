@@ -1,0 +1,15 @@
+name,price,url
+"Мягкий творог Самокат, 3,8%, без лактозы, двухслойный, черника и голубика, 125 г",79.00,https://samokat.ru/product/myagkiy-tvorog-samokat-3-8-bez-laktozy-dvukhsloynyy-chernika-i-golubika-125-g
+"Мягкий творог Самокат, 3,8%, без лактозы, двухслойный, клубника и земляника, 125 г",79.00,https://samokat.ru/product/myagkiy-tvorog-samokat-3-8-bez-laktozy-dvukhsloynyy-klubnika-i-zemlyanika-125-g
+"Молоко Parmalat Comfort, 1,8%, безлактозное, 1 л",169.00,https://samokat.ru/product/moloko-parmalat-comfort-1-8-bezlaktoznoe-1-l
+"Молоко Самокат, 1,8%, без лактозы, ультрапастеризованное, 975 мл",149.00,https://samokat.ru/product/moloko-samokat-1-8-bez-laktozy-ultrapasterizovannoe-975-ml
+"Молоко Parmalat Protein, 1,8%, безлактозное, ультрапастеризованное, 500 мл",165.00,https://samokat.ru/product/moloko-parmalat-protein-1-8-bezlaktoznoe-ultrapasterizovannoe-500-ml
+"Молоко Домик в деревне, 1,8%, без лактозы, ультрапастеризованное, 950 г",145.00,https://samokat.ru/product/moloko-domik-v-derevne-1-8-bez-laktozy-ultrapasterizovannoe-950-g
+"Кувшин Luminarc, Тиволи, прозрачный, 2,3 л",1149.00,https://samokat.ru/product/kuvshin-luminarc-tivoli-prozrachnyy-2-3-l
+"Творог Danke, 5%, безлактозный, 350 г",189.00,https://samokat.ru/product/tvorog-danke-5-bezlaktoznyy-350-g
+"Молоко Parmalat Comfort, 3,5%, безлактозное, 1 л",215.00,https://samokat.ru/product/moloko-parmalat-comfort-3-5-bezlaktoznoe-1-l
+"Молоко Простоквашино, 1,5%, безлактозное, ультрапастеризованное, 970 мл",149.00,https://samokat.ru/product/moloko-prostokvashino-1-5-bezlaktoznoe-ultrapasterizovannoe-970-ml
+"Сметана Danke, 15%, безлактозная, 300 г",135.00,https://samokat.ru/product/smetana-danke-15-bezlaktoznaya-300-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, без лактозы, клубника и земляника, 250 г",219.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-bez-laktozy-klubnika-i-zemlyanika-250-g
+"Соево-ореховый напиток Milx, 2%, без лактозы, дубайский шоколад, 1 л",219.00,https://samokat.ru/product/soevo-orekhovyy-napitok-milx-2-bez-laktozy-dubayskiy-shokolad-1-l
+"Керамический молочник Roomi, Кокетливые бантики, 290 мл",674.00,https://samokat.ru/product/keramicheskiy-molochnik-roomi-koketlivye-bantiki-290-ml

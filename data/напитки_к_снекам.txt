@@ -1,0 +1,6 @@
+name,price,url
+"Энергетик Red Bull, 0,25 л",142.00,https://samokat.ru/product/energetik-red-bull-0-25-l
+"Квас Царские припасы, Живой, нефильтрованный, 1 л",205.00,https://samokat.ru/product/kvas-tsarskie-pripasy-zhivoy-nefiltrovannyy-1-l
+"Холодный зелёный чай Lipton, 1 л",179.00,https://samokat.ru/product/kholodnyy-zelyonyy-chay-lipton-1-l
+"Энергетик Adrenaline Rush, 0,449 л",142.00,https://samokat.ru/product/energetik-adrenaline-rush-0-449-l
+"Энергетик Flash Up Energy, Bubble Gum, 0,45 л",68.00,https://samokat.ru/product/energetik-flash-up-energy-bubble-gum-0-45-l

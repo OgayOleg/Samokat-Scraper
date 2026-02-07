@@ -1,0 +1,3 @@
+name,price,url
+"Пшеничные чипсы Binggrae, васаби, 40 г",104.00,https://samokat.ru/product/pshenichnye-chipsy-binggrae-vasabi-40-g
+"Пшеничные чипсы Крикачи, лук со сметаной, 80 г",129.00,https://samokat.ru/product/pshenichnye-chipsy-krikachi-luk-so-smetanoy-80-g

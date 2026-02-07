@@ -1,0 +1,59 @@
+name,price,url
+"Из Беларуси: Картофельные чипсы Самокат, Сычуаньский хот-пот, в тубе, 100 г",219.00,https://samokat.ru/product/iz-belarusi-kartofelnye-chipsy-samokat-sychuanskiy-khot-pot-v-tube-100-g
+"Из Китая: Чипсы Самокат, с ямсом, чеснок и перец, 33 г",79.00,https://samokat.ru/product/iz-kitaya-chipsy-samokat-s-yamsom-chesnok-i-perets-33-g
+"Чипсы Самокат, сметана и лук, 80 г",135.00,https://samokat.ru/product/chipsy-samokat-smetana-i-luk-80-g
+"Чипсы Самокат, сыр пармезан с чесноком и зеленью, 80 г",135.00,https://samokat.ru/product/chipsy-samokat-syr-parmezan-s-chesnokom-i-zelenyu-80-g
+"Чипсы Самокат, белые грибы в сливочном соусе, 80 г",125.00,https://samokat.ru/product/chipsy-samokat-belye-griby-v-slivochnom-souse-80-g
+"Чипсы Самокат, лосось в сливочном соусе, 80 г",125.00,https://samokat.ru/product/chipsy-samokat-losos-v-slivochnom-souse-80-g
+"Салатник Pasabahce, Инвитейшн, 215 мм",578.00,https://samokat.ru/product/salatnik-pasabahce-inviteyshn-215-mm-1
+"Чипсы Самокат, колбаски на гриле с горчицей, 80 г",125.00,https://samokat.ru/product/chipsy-samokat-kolbaski-na-grile-s-gorchitsey-80-g
+"Чипсы Самокат, фо бо, 100 г",219.00,https://samokat.ru/product/chipsy-samokat-fo-bo-100-g
+"Картофельные чипсы Lay’s, нежный сыр с трюфелем, 93 г",159.00,https://samokat.ru/product/kartofelnye-chipsy-lay-s-nezhnyy-syr-s-tryufelem-93-g
+"Картофельные чипсы Lay’s, рифлёные, лангустины в пикантном соусе, 93 г",159.00,https://samokat.ru/product/kartofelnye-chipsy-lay-s-riflyonye-langustiny-v-pikantnom-souse-93-g
+"Чипсы Lay’s Maxx, рифлёные, двойной гамбургер, 100 г",162.00,https://samokat.ru/product/chipsy-lay-s-maxx-riflyonye-dvoynoy-gamburger-100-g
+"Чипсы Lay’s, рифлёные, чили и лайм, 125 г",193.00,https://samokat.ru/product/chipsy-lay-s-riflyonye-chili-i-laym-125-g
+Набор салатников Luminarc Космос,919.00,https://samokat.ru/product/nabor-salatnikov-luminarc-kosmos
+"Чипсы Lay's, сыр, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-syr-140-g
+"Чипсы Lay's, малосольные огурчики с укропом, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-malosolnye-ogurchiki-s-ukropom-140-g
+"Чипсы Lay's, рифлёные, сметана и лук, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-riflyonye-smetana-i-luk-140-g
+"Чипсы Lay’s Maxx, рифлёные, куриные крылышки барбекю, 100 г",165.00,https://samokat.ru/product/chipsy-lay-s-maxx-riflyonye-kurinye-krylyshki-barbekyu-100-g
+"Чипсы Lay's, рифлёные, лосось в сливочном соусе, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-riflyonye-losos-v-slivochnom-souse-140-g
+"Чипсы Lay’s, рифлёные, стейк рибай с перечным соусом, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-riflyonye-steyk-ribay-s-perechnym-sousom-140-g
+"Салатник Domenik Laguna, 14 см, 6 шт.",2069.00,https://samokat.ru/product/salatnik-domenik-laguna-14-sm-6-sht
+"Чипсы Lay's, рифлёные, сметана и лук, 225 г",299.00,https://samokat.ru/product/chipsy-lay-s-riflyonye-smetana-i-luk-225-g
+"Чипсы Lay’s, бекон, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-bekon-140-g
+"Чипсы Lay’s Maxx, рифлёные, пицца 4 сыра, 100 г",165.00,https://samokat.ru/product/chipsy-lay-s-maxx-riflyonye-pitstsa-4-syra-100-g
+"Чипсы Lay's, зелёный лук, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-zelyonyy-luk-140-g
+"Чипсы Lay’s Из печи, мусс из лосося и авокадо, 81 г",139.00,https://samokat.ru/product/chipsy-lay-s-iz-pechi-muss-iz-lososya-i-avokado-81-g
+"Чипсы Lay's Из печи, лисички в сметане, 85 г",139.00,https://samokat.ru/product/chipsy-lay-s-iz-pechi-lisichki-v-smetane-85-g
+"Миска Fissman, с крышкой, 24 см, 4,5 л",3952.00,https://samokat.ru/product/miska-fissman-s-kryshkoy-24-sm-4-5-l
+"Чипсы Lay’s Stix, сырный соус, 50 г",75.00,https://samokat.ru/product/chipsy-lay-s-stix-syrnyy-sous-50-g
+"Чипсы Lay's, краб, 225 г",299.00,https://samokat.ru/product/chipsy-lay-s-krab-225-g
+"Чипсы Lay's, рифлёные, паприка, 225 г",299.00,https://samokat.ru/product/chipsy-lay-s-riflyonye-paprika-225-g
+"Чипсы Lay’s, малосольные огурчики с укропом, 225 г",299.00,https://samokat.ru/product/chipsy-lay-s-malosolnye-ogurchiki-s-ukropom-225-g
+"Чипсы Lay's Stax, ароматные рёбрышки барбекю, 140 г",275.00,https://samokat.ru/product/chipsy-lay-s-stax-aromatnye-ryobryshki-barbekyu-140-g
+"Чипсы Lay's Stax, нежная сметана и лук, 140 г",275.00,https://samokat.ru/product/chipsy-lay-s-stax-nezhnaya-smetana-i-luk-140-g
+"Чипсы Lay's Stax, пикантная паприка, 140 г",275.00,https://samokat.ru/product/chipsy-lay-s-stax-pikantnaya-paprika-140-g
+"Чипсы Lay's, сметана и зелень, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-smetana-i-zelen-140-g
+"Чипсы Lay's, краб, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-krab-140-g
+"Чипсы Lay's, с солью, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-s-solyu-140-g
+"Чипсы Lay's, рифлёные, лобстер, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-riflyonye-lobster-140-g
+"Чипсы Lay's, рифлёные, паприка, 140 г",199.00,https://samokat.ru/product/chipsy-lay-s-riflyonye-paprika-140-g
+"Чипсы Русская картошка, фермерская сметана и укроп, 105 г",135.00,https://samokat.ru/product/chipsy-russkaya-kartoshka-fermerskaya-smetana-i-ukrop-105-g
+"Чипсы Dr. Diesel, сыр чеддер и сметана, 120 г",139.00,https://samokat.ru/product/chipsy-dr-diesel-syr-chedder-i-smetana-120-g
+"Чипсы Lit Energy, рифлёные, сыр пармезан, 120 г",169.00,https://samokat.ru/product/chipsy-lit-energy-riflyonye-syr-parmezan-120-g
+"Чипсы Lit Energy, рифлёные, сыр чеддер, 120 г",169.00,https://samokat.ru/product/chipsy-lit-energy-riflyonye-syr-chedder-120-g
+"Чипсы Mister Potato, 160 г",284.00,https://samokat.ru/product/chipsy-mister-potato-160-g
+"Чипсы Mister Potato, барбекю, 160 г",284.00,https://samokat.ru/product/chipsy-mister-potato-barbekyu-160-g
+"Чипсы Lit Energy, рифлёные, паприка, 120 г",169.00,https://samokat.ru/product/chipsy-lit-energy-riflyonye-paprika-120-g
+"Чипсы Mister Potato, острые пряности, 160 г",284.00,https://samokat.ru/product/chipsy-mister-potato-ostrye-pryanosti-160-g
+"Чипсы Pringles, сыр и лук, 165 г",429.00,https://samokat.ru/product/chipsy-pringles-syr-i-luk-165-g
+"Чипсы Pringles, паприка, 165 г",399.00,https://samokat.ru/product/chipsy-pringles-paprika-165-g
+"Чипсы Chill’s, паприка, 130 г",140.00,https://samokat.ru/product/chipsy-chill-s-paprika-130-g
+"Чипсы Chill’s, мясо на углях, 130 г",100.00,https://samokat.ru/product/chipsy-chill-s-myaso-na-uglyakh-130-g
+"Чипсы Lit Energy, рифлёные, сметана и зелень, 120 г",169.00,https://samokat.ru/product/chipsy-lit-energy-riflyonye-smetana-i-zelen-120-g
+"Чипсы Golden Life, лобстер термидор, 90 г",155.00,https://samokat.ru/product/chipsy-golden-life-lobster-termidor-90-g
+"Чипсы Golden Life, аргентинский стейк с трюфелем, 90 г",175.00,https://samokat.ru/product/chipsy-golden-life-argentinskiy-steyk-s-tryufelem-90-g
+"Чипсы Naturals, манго и перец чили, 100 г",146.00,https://samokat.ru/product/chipsy-naturals-mango-i-perets-chili-100-g
+"Чипсы Деревенские, соломка, сметанный соус, 120 г",163.00,https://samokat.ru/product/chipsy-derevenskie-solomka-smetannyy-sous-120-g
+"Чипсы Pringles, чёрный трюфель и сливочное масло, 165 г",399.00,https://samokat.ru/product/chipsy-pringles-chyornyy-tryufel-i-slivochnoe-maslo-165-g

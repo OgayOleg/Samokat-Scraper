@@ -1,0 +1,11 @@
+name,price,url
+"Сливки Домик в деревне, 10%, стерилизованные, 480 г",159.00,https://samokat.ru/product/slivki-domik-v-derevne-10-sterilizovannye-480-g
+"Сливки Рогачевъ, 11%, безлактозные, стерилизованные, 200 г",122.00,https://samokat.ru/product/slivki-rogachev-11-bezlaktoznye-sterilizovannye-200-g
+"Сливки Село Зелёное, 10%, стерилизованные, 500 г",189.00,https://samokat.ru/product/slivki-selo-zelyonoe-10-sterilizovannye-500-g
+"Сливки Белый город, 10%, ультрапастеризованные, 500 г",164.00,https://samokat.ru/product/slivki-belyy-gorod-10-ultrapasterizovannye-500-g
+"Сливки Домик в деревне, 20%, стерилизованные, 475 мл",255.00,https://samokat.ru/product/slivki-domik-v-derevne-20-sterilizovannye-475-ml
+"Сливки Простоквашино, 20%, ультрапастеризованные, 200 г",135.00,https://samokat.ru/product/slivki-prostokvashino-20-ultrapasterizovannye-200-g
+"Пружинный венчик Mallony Nimbus,  25,5x5,5 см",279.00,https://samokat.ru/product/pruzhinnyy-venchik-mallony-nimbus-25-5x5-5-sm
+"Сливки Parmalat Chef, 23%, для соуса, 500 г",324.00,https://samokat.ru/product/slivki-parmalat-chef-23-dlya-sousa-500-g
+"Питьевые сливки Свитлогорье, 20%, ультрапастеризованные, 500 г",305.00,https://samokat.ru/product/pitevye-slivki-svitlogore-20-ultrapasterizovannye-500-g
+"Сливки Самокат, 30%, питьевые, пастеризованные, 190 г",129.00,https://samokat.ru/product/slivki-samokat-30-pitevye-pasterizovannye-190-g

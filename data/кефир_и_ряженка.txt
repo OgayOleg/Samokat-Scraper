@@ -1,0 +1,29 @@
+name,price,url
+"Кефир Самокат 2,5%, 950 г",88.00,https://samokat.ru/product/kefir-samokat-2-5-950-g
+"Кефир Самокат обезжиренный, 450 г",51.00,https://samokat.ru/product/kefir-samokat-obezzhirennyy-450-g
+"Кефир Самокат, 1%, 950 г",99.00,https://samokat.ru/product/kefir-samokat-1-950-g
+"Кефир Самокат, 3,2%, 950 г",109.00,https://samokat.ru/product/kefir-samokat-3-2-950-g
+"Ряженка Самокат, 3,2%, 290 г",69.00,https://samokat.ru/product/ryazhenka-samokat-3-2-290-g
+"Бифилайф Самокат, 2,5%, черника, с 8 месяцев, 210 г",59.00,https://samokat.ru/product/bifilayf-samokat-2-5-chernika-s-8-mesyatsev-210-g
+"Стаканы ND Play, стекло, 420 мл, 2 шт.",522.00,https://samokat.ru/product/stakany-nd-play-steklo-420-ml-2-sht
+"Бифилайф Самокат, 2,5%, яблоко и банан, с 8 месяцев, 210 г",59.00,https://samokat.ru/product/bifilayf-samokat-2-5-yabloko-i-banan-s-8-mesyatsev-210-g
+"Биолакт Тёма, 3,4%, без сахара, с 8 месяцев, 206 г",59.00,https://samokat.ru/product/biolakt-tyoma-3-4-bez-sakhara-s-8-mesyatsev-206-g
+"Кисломолочный напиток Exponenta, Immuno Shot, 1,5%, маршмеллоу, 100 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-immuno-shot-1-5-marshmellou-100-g
+"Кефир Агуша Первая ложка, 3,2%, с 8 месяцев, 200 мл",56.00,https://samokat.ru/product/kefir-agusha-pervaya-lozhka-3-2-s-8-mesyatsev-200-ml
+"Кефир Простоквашино, 2,5%, 930 г",83.00,https://samokat.ru/product/kefir-prostokvashino-2-5-930-g
+"Кефир Простоквашино, 1%, 930 мл",99.00,https://samokat.ru/product/kefir-prostokvashino-1-930-ml
+"Тайран Молочные горки, 1,5%, по-турецки, солёный огурец и укроп, 220 г",69.00,https://samokat.ru/product/tayran-molochnye-gorki-1-5-po-turetski-solyonyy-ogurets-i-ukrop-220-g
+"Кефир Асеньевская ферма, 1%, 330 г",59.00,https://samokat.ru/product/kefir-asenevskaya-ferma-1-330-g
+"Ряженка Асеньевская ферма, 3,2%, 330 мл",85.00,https://samokat.ru/product/ryazhenka-asenevskaya-ferma-3-2-330-ml
+"Кефир Асеньевская ферма, 3,2%, 330 г",65.00,https://samokat.ru/product/kefir-asenevskaya-ferma-3-2-330-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, без лактозы, клубника и земляника, 250 г",219.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-bez-laktozy-klubnika-i-zemlyanika-250-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, без сахара, малина и банан, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-bez-sakhara-malina-i-banan-250-g
+"Катык Халалмилк, 6%, халяль, 500 г",199.00,https://samokat.ru/product/katyk-khalalmilk-6-khalyal-500-g
+"Кисломолочный биолакт Тёма, 3%, клубника и банан, с 8 месяцев, 206 г",59.00,https://samokat.ru/product/kislomolochnyy-biolakt-tyoma-3-klubnika-i-banan-s-8-mesyatsev-206-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, черника и земляника, 250 г",189.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-chernika-i-zemlyanika-250-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, клубника и арбуз, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-klubnika-i-arbuz-250-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, лимонный чизкейк, 250 г",189.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-limonnyy-chizkeyk-250-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, кокос и миндаль, 250 г",195.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-kokos-i-mindal-250-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, 250 г",195.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-250-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, солёная карамель, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-solyonaya-karamel-250-g
+"Кисломолочный напиток Exponenta Bio-Skyr, 3 в 1, обезжиренный, черника и голубика, 500 г",195.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-bio-skyr-3-v-1-obezzhirennyy-chernika-i-golubika-500-g

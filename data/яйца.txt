@@ -1,0 +1,16 @@
+name,price,url
+"Куриное яйцо Лето, С1, коричневое, 20 шт.",249.00,https://samokat.ru/product/kurinoe-yaytso-leto-s1-korichnevoe-20-sht
+"Перепелиное яйцо Молодецкие, 20 шт.",175.00,https://samokat.ru/product/perepelinoe-yaytso-molodetskie-20-sht
+"Куриное яйцо Самокат, с ярким желтком, СО, 10 шт.",139.00,https://samokat.ru/product/kurinoe-yaytso-samokat-s-yarkim-zheltkom-so-10-sht
+"Куриное яйцо Самокат, с йодом и селеном, С1, 10 шт.",119.00,https://samokat.ru/product/kurinoe-yaytso-samokat-s-yodom-i-selenom-s1-10-sht
+"Куриное яйцо Окское, С1, белое, 10 шт.",125.00,https://samokat.ru/product/kurinoe-yaytso-okskoe-s1-beloe-10-sht
+"Куриное яйцо Лето, С1, коричневое, 10 шт.",115.00,https://samokat.ru/product/kurinoe-yaytso-leto-s1-korichnevoe-10-sht
+"Куриное яйцо Окское, СО, белое, 10 шт.",145.00,https://samokat.ru/product/kurinoe-yaytso-okskoe-so-beloe-10-sht
+"Куриное яйцо Лето, СО, коричневое, 10 шт.",139.00,https://samokat.ru/product/kurinoe-yaytso-leto-so-korichnevoe-10-sht
+"Куриное яйцо, СО, 10 шт.",109.00,https://samokat.ru/product/kurinoe-yaytso-so-10-sht
+"Куриное яйцо Ешь хорошее, СО, белое, 10 шт.",125.00,https://samokat.ru/product/kurinoe-yaytso-esh-khoroshee-so-beloe-10-sht
+"Куриное яйцо Ешь хорошее, С1, белое, 10 шт.",125.00,https://samokat.ru/product/kurinoe-yaytso-esh-khoroshee-s1-beloe-10-sht
+"Копчёные перепелиные яйца Молодецкие, 20 шт.",315.00,https://samokat.ru/product/kopchyonye-perepelinye-yaytsa-molodetskie-20-sht
+"Маринованные перепелиные яйца Первая перепелиная компания, в свекольном маринаде, 200 г",245.00,https://samokat.ru/product/marinovannye-perepelinye-yaytsa-pervaya-perepelinaya-kompaniya-v-svekolnom-marinade-200-g
+"Яичный белок Grovo, пастеризованный, охлаждённый, 500 г",199.00,https://samokat.ru/product/yaichnyy-belok-grovo-pasterizovannyy-okhlazhdyonnyy-500-g
+"Копчёные перепелиные яйца Молодецкие, 20 шт.",315.00,https://samokat.ru/product/kopchyonye-perepelinye-yaytsa-molodetskie-20-sht

@@ -1,0 +1,21 @@
+name,price,url
+"Сливочное масло Домик в деревне, 72,5%, 180 г",179.00,https://samokat.ru/product/slivochnoe-maslo-domik-v-derevne-72-5-180-g
+"Сладко-сливочное масло Самокат, крестьянское, 72,5%, несолёное, 170 г",219.00,https://samokat.ru/product/sladko-slivochnoe-maslo-samokat-krestyanskoe-72-5-nesolyonoe-170-g
+"Сладко-сливочное масло Самокат, Традиционное, 82,5%, несолёное, 170 г",249.00,https://samokat.ru/product/sladko-slivochnoe-maslo-samokat-traditsionnoe-82-5-nesolyonoe-170-g
+"Сливочное масло Самокат, 62%, шоколадное, 160 г",229.00,https://samokat.ru/product/slivochnoe-maslo-samokat-62-shokoladnoe-160-g
+"Сливочное масло Экомилк, 82,5%, традиционное, ГОСТ, 160 г",245.00,https://samokat.ru/product/slivochnoe-maslo-ekomilk-82-5-traditsionnoe-gost-160-g
+"Сладко-сливочное масло Экомилк, 82,5%, традиционное, высший сорт, 100 г",155.00,https://samokat.ru/product/sladko-slivochnoe-maslo-ekomilk-82-5-traditsionnoe-vysshiy-sort-100-g
+"Банка для сыпучих продуктов, с ложкой",399.00,https://samokat.ru/product/banka-dlya-sypuchikh-produktov-s-lozhkoy
+"Сливочное масло Экомилк, 82,5%, несолёное, 180 г",319.00,https://samokat.ru/product/slivochnoe-maslo-ekomilk-82-5-nesolyonoe-180-g
+"Сливочное масло Село Зелёное, 82,5%, традиционное, 175 г",285.00,https://samokat.ru/product/slivochnoe-maslo-selo-zelyonoe-82-5-traditsionnoe-175-g
+"Масло сливочное Чабан 82,5%, 180 г",275.00,https://samokat.ru/product/maslo-slivochnoe-chaban-82-5-180-g
+"Сливочное масло Кубанский молочник, 82,5%, традиционное, 170 г",255.00,https://samokat.ru/product/slivochnoe-maslo-kubanskiy-molochnik-82-5-traditsionnoe-170-g
+"Cливочное масло Простоквашино, 82%, 180 г",234.00,https://samokat.ru/product/clivochnoe-maslo-prostokvashino-82-180-g
+"Сливочное масло Из Вологды, 82,5%, традиционное, 160 г",279.00,https://samokat.ru/product/slivochnoe-maslo-iz-vologdy-82-5-traditsionnoe-160-g
+"Кисло-сливочное масло Président, 82%, несолёное, 180 г",295.00,https://samokat.ru/product/kislo-slivochnoe-maslo-president-82-nesolyonoe-180-g
+"Сливочное масло Natura, 82%, 160 г",315.00,https://samokat.ru/product/slivochnoe-maslo-natura-82-160-g
+"Сладко-сливочное масло Danke, 82,5%, несолёное, 180 г",239.00,https://samokat.ru/product/sladko-slivochnoe-maslo-danke-82-5-nesolyonoe-180-g
+"Топлёное масло гхи Вкус Благости, 225 г",609.00,https://samokat.ru/product/toplyonoe-maslo-gkhi-vkus-blagosti-225-g
+"Топлёное масло гхи Вкус Благости, с укропом и чесноком, 225 г",609.00,https://samokat.ru/product/toplyonoe-maslo-gkhi-vkus-blagosti-s-ukropom-i-chesnokom-225-g
+"Топлёное масло гхи Вкус Благости, с копчёной паприкой, 225 г",609.00,https://samokat.ru/product/toplyonoe-maslo-gkhi-vkus-blagosti-s-kopchyonoy-paprikoy-225-g
+"Сливочное масло Natura, 82%, солёное, 160 г",349.00,https://samokat.ru/product/slivochnoe-maslo-natura-82-solyonoe-160-g
