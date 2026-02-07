@@ -1,0 +1,66 @@
+name,price,url
+"Творожный мусс Самокат, с вишней, 2,5%, 125 г",69.00,https://samokat.ru/product/tvorozhnyy-muss-samokat-s-vishney-2-5-125-g
+"Йогурт Самокат, 1,5%, термостатный, ежевика, 250 г",119.00,https://samokat.ru/product/yogurt-samokat-1-5-termostatnyy-ezhevika-250-g
+"Йогурт Самокат, 2,7-3,5%, клубника, банан и маракуйя, 130 г",79.00,https://samokat.ru/product/yogurt-samokat-2-7-3-5-klubnika-banan-i-marakuyya-130-g
+"Йогурт Самокат, 2,7-3,5%, манго, банан и личи, 130 г",79.00,https://samokat.ru/product/yogurt-samokat-2-7-3-5-mango-banan-i-lichi-130-g
+"Йогурт Самокат, 1,5%, термостатный, манго, 250 г",119.00,https://samokat.ru/product/yogurt-samokat-1-5-termostatnyy-mango-250-g
+"Мягкий творог Самокат, 3,8%, без лактозы, двухслойный, черника и голубика, 125 г",69.00,https://samokat.ru/product/myagkiy-tvorog-samokat-3-8-bez-laktozy-dvukhsloynyy-chernika-i-golubika-125-g
+"Мягкий творог Самокат, 3,8%, без лактозы, двухслойный, клубника и земляника, 125 г",69.00,https://samokat.ru/product/myagkiy-tvorog-samokat-3-8-bez-laktozy-dvukhsloynyy-klubnika-i-zemlyanika-125-g
+"Мягкий творог Самокат, 6%, голубика, 125 г",69.00,https://samokat.ru/product/myagkiy-tvorog-samokat-6-golubika-125-g
+"Йогурт Самокат, 2,7-3,5%, с вишней, черешней и гранолой, 190 г",119.00,https://samokat.ru/product/yogurt-samokat-2-7-3-5-s-vishney-chereshney-i-granoloy-190-g
+"Йогурт Самокат, 1,5%, термостатный, клубника, 250 г",119.00,https://samokat.ru/product/yogurt-samokat-1-5-termostatnyy-klubnika-250-g
+"Творожный десерт Чудо Творожок, 4%, 2 слоя, взбитый, клубника и земляника, 100 г",75.00,https://samokat.ru/product/tvorozhnyy-desert-chudo-tvorozhok-4-2-sloya-vzbityy-klubnika-i-zemlyanika-100-g
+"Творожный десерт Чудо Творожок, 4%, 2 слоя, взбитый, вишня и черешня, 100 г",75.00,https://samokat.ru/product/tvorozhnyy-desert-chudo-tvorozhok-4-2-sloya-vzbityy-vishnya-i-chereshnya-100-g
+"Творожный десерт Чудо Творожок, 4,2%, 2 слоя, взбитый, персик и груша, 100 г",75.00,https://samokat.ru/product/tvorozhnyy-desert-chudo-tvorozhok-4-2-2-sloya-vzbityy-persik-i-grusha-100-g
+"Творожный десерт Чудо, 4,4%, пломбир, с соусом солёная карамель, 100 г",75.00,https://samokat.ru/product/tvorozhnyy-desert-chudo-4-4-plombir-s-sousom-solyonaya-karamel-100-g
+"Творожный десерт Чудо Творожок, 4,2%, 2 слоя, взбитый, малина и ежевика, 100 г",75.00,https://samokat.ru/product/tvorozhnyy-desert-chudo-tvorozhok-4-2-2-sloya-vzbityy-malina-i-ezhevika-100-g
+"Творожный десерт Чудо, 4,4%, вишня, с шоколадным соусом, 100 г",75.00,https://samokat.ru/product/tvorozhnyy-desert-chudo-4-4-vishnya-s-shokoladnym-sousom-100-g
+"Йогурт Чудо, 4%, шоколадное настроение, 105 г",75.00,https://samokat.ru/product/yogurt-chudo-4-shokoladnoe-nastroenie-105-g
+"Йогурт Чудо, Ягодное конфетти, 4%, малина и клюква, 105 г",75.00,https://samokat.ru/product/yogurt-chudo-yagodnoe-konfetti-4-malina-i-klyukva-105-g
+"Йогурт Чудо, 4%, бабл-гам, 101 г",75.00,https://samokat.ru/product/yogurt-chudo-4-babl-gam-101-g
+"Греческий йогурт Neo, 2%, без сахара, классический, 125 г",79.00,https://samokat.ru/product/grecheskiy-yogurt-neo-2-bez-sakhara-klassicheskiy-125-g
+"Творожок Чудо, 5,8%, воздушный, пломбир, 85 г",55.00,https://samokat.ru/product/tvorozhok-chudo-5-8-vozdushnyy-plombir-85-g
+"Творог Агуша, 3,9%, яблоко и банан, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-3-9-yabloko-i-banan-s-6-mesyatsev-100-g
+"Творог Агуша, 4,5%, с 6 месяцев, 100 г",47.00,https://samokat.ru/product/tvorog-agusha-4-5-s-6-mesyatsev-100-g
+"Творог Агуша Засыпай-ка, 3,8%, клубника, банан и мелисса, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-zasypay-ka-3-8-klubnika-banan-i-melissa-s-6-mesyatsev-100-g
+"Творог Агуша, 3,9%, груша, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-3-9-grusha-s-6-mesyatsev-100-g
+"Творог Агуша, 3,9%, черника, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-3-9-chernika-s-6-mesyatsev-100-g
+"Йогурт Село Зелёное, груша, злаки, семена льна, грецкий орех, 3,2%, 180 г",89.00,https://samokat.ru/product/yogurt-selo-zelyonoe-grusha-zlaki-semena-lna-gretskiy-orekh-3-2-180-g
+"Греческий йогурт Viola, 4%, без лактозы, без сахара, 140 г",95.00,https://samokat.ru/product/grecheskiy-yogurt-viola-4-bez-laktozy-bez-sakhara-140-g
+"Йогурт Viola Laplandia, 7%, сливочный, крем-брюле, 180 г",110.00,https://samokat.ru/product/yogurt-viola-laplandia-7-slivochnyy-krem-bryule-180-g
+"Йогурт Epica, 4,8%, зимний пунш, 130 г",69.00,https://samokat.ru/product/yogurt-epica-4-8-zimniy-punsh-130-g
+"Творожок Epica Flavorite, 7,5%, имбирный пряник, 130 г",65.00,https://samokat.ru/product/tvorozhok-epica-flavorite-7-5-imbirnyy-pryanik-130-g
+"Творожный десерт Даниссимо, 3,9%, двухслойный, фисташка и малина, с крошкой печенья, 110 г",69.00,https://samokat.ru/product/tvorozhnyy-desert-danissimo-3-9-dvukhsloynyy-fistashka-i-malina-s-kroshkoy-pechenya-110-g
+"Греческий йогурт Простоквашино, 2%, 235 г",99.00,https://samokat.ru/product/grecheskiy-yogurt-prostokvashino-2-235-g
+"Творожный продукт Даниссимо, миндально-кокосовый десерт, 130 г",79.00,https://samokat.ru/product/tvorozhnyy-produkt-danissimo-mindalno-kokosovyy-desert-130-g
+"Йогурт Даниссимо Фантазия, 6,9%, с шариками в шоколаде, 105 г",85.00,https://samokat.ru/product/yogurt-danissimo-fantaziya-6-9-s-sharikami-v-shokolade-105-g
+"Йогурт Даниссимо Фантазия с шариками, солёная карамель, 6,9%, 105 г",85.00,https://samokat.ru/product/yogurt-danissimo-fantaziya-s-sharikami-solyonaya-karamel-6-9-105-g
+"Творожок Даниссимо, черничный пломбир, 130 г",69.00,https://samokat.ru/product/tvorozhok-danissimo-chernichnyy-plombir-130-g
+"Греческий йогурт Простоквашино, 2%, 135 г",79.00,https://samokat.ru/product/grecheskiy-yogurt-prostokvashino-2-135-g
+"Йогурт Простоквашино, 3,4%, термостатный, персик, 160 г",67.00,https://samokat.ru/product/yogurt-prostokvashino-3-4-termostatnyy-persik-160-g
+"Йогурт Простоквашино, 3,4%, термостатный, черника, 160 г",67.00,https://samokat.ru/product/yogurt-prostokvashino-3-4-termostatnyy-chernika-160-g
+"Йогурт АктиБио, 3%, без сахара, с персиком и малиной, 130 г",69.00,https://samokat.ru/product/yogurt-aktibio-3-bez-sakhara-s-persikom-i-malinoy-130-g
+"Йогурт АктиБио, 3%, без сахара, с манго и папайей, 130 г",69.00,https://samokat.ru/product/yogurt-aktibio-3-bez-sakhara-s-mango-i-papayey-130-g
+"Творожок Даниссимо, 5,6%, малиновый пломбир, 130 г",75.00,https://samokat.ru/product/tvorozhok-danissimo-5-6-malinovyy-plombir-130-g
+"Йогурт АктиБио с вишней, 2,9%, 130 г",65.00,https://samokat.ru/product/yogurt-aktibio-s-vishney-2-9-130-g
+"Творожок Даниссимо, 7,2%, хрустящие шарики в шоколаде, 130 г",79.00,https://samokat.ru/product/tvorozhok-danissimo-7-2-khrustyashchie-shariki-v-shokolade-130-g
+"Творожок Даниссимо, 6,7%, изысканный шоколад, 130 г",79.00,https://samokat.ru/product/tvorozhok-danissimo-6-7-izyskannyy-shokolad-130-g
+"Йогурт АктиБио, 3%, манго, 220 г",75.00,https://samokat.ru/product/yogurt-aktibio-3-mango-220-g
+"Мягкий творог Бежин луг, 4,2%, клубника и земляника, 130 г",75.00,https://samokat.ru/product/myagkiy-tvorog-bezhin-lug-4-2-klubnika-i-zemlyanika-130-g
+"Мягкий творог Бежин луг, 4,2%, груша и ваниль, 130 г",75.00,https://samokat.ru/product/myagkiy-tvorog-bezhin-lug-4-2-grusha-i-vanil-130-g
+"Творожок Простоквашино с клубникой и земляникой, 3,6%, 130 г",59.00,https://samokat.ru/product/tvorozhok-prostokvashino-s-klubnikoy-i-zemlyanikoy-3-6-130-g
+"Йогурт Простоквашино с клубникой, 2,9%, 110 г",45.00,https://samokat.ru/product/yogurt-prostokvashino-s-klubnikoy-2-9-110-g
+"Йогурт Село Зелёное брусника и малина, 3,5%, 120 г",49.00,https://samokat.ru/product/yogurt-selo-zelyonoe-brusnika-i-malina-3-5-120-g
+"Творожок ЭкоНива с вишней и черешней, 5%, 125 г",69.00,https://samokat.ru/product/tvorozhok-ekoniva-s-vishney-i-chereshney-5-125-g
+"Биойогурт ЭкоНива клубника-банан, 2,8%, 125 г",45.00,https://samokat.ru/product/bioyogurt-ekoniva-klubnika-banan-2-8-125-g
+"Творожок Эконива с малиной и земляникой, 5%, 125 г",69.00,https://samokat.ru/product/tvorozhok-ekoniva-s-malinoy-i-zemlyanikoy-5-125-g
+"Биойогурт ЭкоНива с яблоком и грушей, 2,8%, 125 г",45.00,https://samokat.ru/product/bioyogurt-ekoniva-s-yablokom-i-grushey-2-8-125-g
+"Творожный десерт Epica Flavorite, 8%, груша, ваниль и грецкий орех, 130 г",65.00,https://samokat.ru/product/tvorozhnyy-desert-epica-flavorite-8-grusha-vanil-i-gretskiy-orekh-130-g
+"Творожный десерт Epica Flavorite, 7,7%, малина и маскарпоне, 130 г",65.00,https://samokat.ru/product/tvorozhnyy-desert-epica-flavorite-7-7-malina-i-maskarpone-130-g
+"Кисломолочный продукт Exponenta High-Pro, обезжиренный, без сахара, черника и малина, 160 г",139.00,https://samokat.ru/product/kislomolochnyy-produkt-exponenta-high-pro-obezzhirennyy-bez-sakhara-chernika-i-malina-160-g
+"Творожок Fitness Time, 1,5%, альбуминный, с коллагеном, ваниль, 100 г",65.00,https://samokat.ru/product/tvorozhok-fitness-time-1-5-albuminnyy-s-kollagenom-vanil-100-g
+"Творожок Fitness Time, 1,5%, альбуминный, с коллагеном, шоколад, 100 г",65.00,https://samokat.ru/product/tvorozhok-fitness-time-1-5-albuminnyy-s-kollagenom-shokolad-100-g
+"Йогурт Viola Laplandia, 7,1%, сливочный, фисташка, 190 г",129.00,https://samokat.ru/product/yogurt-viola-laplandia-7-1-slivochnyy-fistashka-190-g
+"Йогурт Растишка, 3%, клубника, со злаковыми шариками в белой, шоколадной и цветной глазури, 117 г",85.00,https://samokat.ru/product/yogurt-rastishka-3-klubnika-so-zlakovymi-sharikami-v-beloy-shokoladnoy-i-tsvetnoy-glazuri-117-g
+"Йогурт Простая радость, 0,5%, обезжиренный, со вкусом клубники, 270 г",80.00,https://samokat.ru/product/yogurt-prostaya-radost-0-5-obezzhirennyy-so-vkusom-klubniki-270-g
+"Йогурт Растишка, 3%, яблоко и груша, с печеньем, с 3 лет, 118 г",85.00,https://samokat.ru/product/yogurt-rastishka-3-yabloko-i-grusha-s-pechenem-s-3-let-118-g

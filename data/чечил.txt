@@ -1,0 +1,4 @@
+name,price,url
+"Белый чечил Président, спагетти, 35%, 100 г",275.00,https://samokat.ru/product/belyy-chechil-president-spagetti-35-100-g
+"Мини-ассорти мягких сыров Самокат, копчёные, косичка, 100 г",269.00,https://samokat.ru/product/mini-assorti-myagkikh-syrov-samokat-kopchyonye-kosichka-100-g
+"Сыр Самокат, копчёный, коса, 100 г",199.00,https://samokat.ru/product/syr-samokat-kopchyonyy-kosa-100-g

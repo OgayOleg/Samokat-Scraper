@@ -1,0 +1,2 @@
+name,price,url
+"Творожный сырок Самокат, в молочном шоколаде, с протеином, ваниль, 50 г",99.00,https://samokat.ru/product/tvorozhnyy-syrok-samokat-v-molochnom-shokolade-s-proteinom-vanil-50-g

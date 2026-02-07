@@ -1,0 +1,6 @@
+name,price,url
+"Хлебцы Щедрые тонкие, бородинские, 170 г",139.00,https://samokat.ru/product/khlebtsy-shchedrye-tonkie-borodinskie-170-g
+"Хлебцы Щедрые ржаные, 100 г",79.00,https://samokat.ru/product/khlebtsy-shchedrye-rzhanye-100-g
+"Хлебцы Kruazett, ржаные, тонкие, 200 г",249.00,https://samokat.ru/product/khlebtsy-kruazett-rzhanye-tonkie-200-g
+"Хлебцы Kruazett, мультизлаковые, тонкие, 200 г",239.00,https://samokat.ru/product/khlebtsy-kruazett-multizlakovye-tonkie-200-g
+"Рисовые хлебцы Dr. Körner, пармезан и песто, 80 г",125.00,https://samokat.ru/product/risovye-khlebtsy-dr-korner-parmezan-i-pesto-80-g

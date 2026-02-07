@@ -1,0 +1,11 @@
+name,price,url
+"Cгущёнка Самокат, 1%, с сахаром, со вкусом банана, 250 г",109.00,https://samokat.ru/product/cgushchyonka-samokat-1-s-sakharom-so-vkusom-banana-250-g
+"Сгущённое варёное молоко Самокат, 8,5%, с сахаром, в ведёрке, 400 г",239.00,https://samokat.ru/product/sgushchyonnoe-varyonoe-moloko-samokat-8-5-s-sakharom-v-vedyorke-400-g
+"Сгущённое молоко Самокат, 8,5%, цельное, с сахаром, 270 г",149.00,https://samokat.ru/product/sgushchyonnoe-moloko-samokat-8-5-tselnoe-s-sakharom-270-g
+"Сгущённое молоко Алексеевское, 8,5%, цельное, с сахаром, 360 г",169.00,https://samokat.ru/product/sgushchyonnoe-moloko-alekseevskoe-8-5-tselnoe-s-sakharom-360-g
+"Сгущённое молоко Коровка из Кореновки, 8,5%, с сахаром, малиновый пломбир, 270 г",169.00,https://samokat.ru/product/sgushchyonnoe-moloko-korovka-iz-korenovki-8-5-s-sakharom-malinovyy-plombir-270-g
+"Сгущённое молоко Коровка из Кореновки, 8,5%, с сахаром, со вкусом шоколадного пломбира, 270 г",175.00,https://samokat.ru/product/sgushchyonnoe-moloko-korovka-iz-korenovki-8-5-s-sakharom-so-vkusom-shokoladnogo-plombira-270-g
+"Сгущённое молоко Алексеевское, 8,5%, с сахаром, дойпак, 270 г",149.00,https://samokat.ru/product/sgushchyonnoe-moloko-alekseevskoe-8-5-s-sakharom-doypak-270-g
+"Десерт Молочное лакомство Рогачёвъ, Лакомка, 8,5%, с хрустящими палочками, 47 г",83.00,https://samokat.ru/product/desert-molochnoe-lakomstvo-rogachyov-lakomka-8-5-s-khrustyashchimi-palochkami-47-g
+"Десерт Молочное лакомство Рогачёвъ, сгущённое молоко с хрустящими палочками, 47 г",50.00,https://samokat.ru/product/desert-molochnoe-lakomstvo-rogachyov-sgushchyonnoe-moloko-s-khrustyashchimi-palochkami-47-g
+"Сгущённое молоко Алексеевское, 8,5%, с сахаром, цельное, дойпак, 650 г",305.00,https://samokat.ru/product/sgushchyonnoe-moloko-alekseevskoe-8-5-s-sakharom-tselnoe-doypak-650-g

@@ -1,0 +1,36 @@
+name,price,url
+"Йогурт Самокат натуральный, 1,5%, 450 г",89.00,https://samokat.ru/product/yogurt-samokat-naturalnyy-1-5-450-g
+"Питьевой йогурт Чудо, Для вкусного перекуса, 2,2%, вишня, шоколад и гранола, 260 г",89.00,https://samokat.ru/product/pitevoy-yogurt-chudo-dlya-vkusnogo-perekusa-2-2-vishnya-shokolad-i-granola-260-g
+"Питьевой йогурт Чудо, Для вкусного перекуса, 2,2%, абрикос, манго и гранола, 260 г",89.00,https://samokat.ru/product/pitevoy-yogurt-chudo-dlya-vkusnogo-perekusa-2-2-abrikos-mango-i-granola-260-g
+"Питьевой йогурт Чудо, 1,9%, вишня и черешня, 260 г",79.00,https://samokat.ru/product/pitevoy-yogurt-chudo-1-9-vishnya-i-chereshnya-260-g
+"Питьевой йогурт Чудо, 1,9%, клубника и земляника, 260 г",79.00,https://samokat.ru/product/pitevoy-yogurt-chudo-1-9-klubnika-i-zemlyanika-260-g
+"Питьевой йогурт Neo, 1,8%, без сахара, 260 г",89.00,https://samokat.ru/product/pitevoy-yogurt-neo-1-8-bez-sakhara-260-g
+"Питьевой йогурт Neo, 1,5%, манго и малина, 260 г",89.00,https://samokat.ru/product/pitevoy-yogurt-neo-1-5-mango-i-malina-260-g
+"Кисломолочный напиток Имунеле For Kids, 1,5%, клубничное мороженое, с 3 лет, 100 г",39.00,https://samokat.ru/product/kislomolochnyy-napitok-imunele-for-kids-1-5-klubnichnoe-morozhenoe-s-3-let-100-g
+"Кисломолочный напиток Имунеле, 1,2%, земляника, 100 г",39.00,https://samokat.ru/product/kislomolochnyy-napitok-imunele-1-2-zemlyanika-100-g
+"Питьевой йогурт Агуша, 2,7%, клубника и банан, с 8 месяцев, 180 г",55.00,https://samokat.ru/product/pitevoy-yogurt-agusha-2-7-klubnika-i-banan-s-8-mesyatsev-180-g
+"Питьевой йогурт Агуша, 2,7%, яблоко и груша, с 8 месяцев, 180 г",56.00,https://samokat.ru/product/pitevoy-yogurt-agusha-2-7-yabloko-i-grusha-s-8-mesyatsev-180-g
+"Питьевой йогурт Агуша, 2,7%, со вкусом малинового пломбира, с 12 месяцев, 180 г",51.00,https://samokat.ru/product/pitevoy-yogurt-agusha-2-7-so-vkusom-malinovogo-plombira-s-12-mesyatsev-180-g
+"Йогурт питьевой АктиБио со злаками, 1,6%, 260 г",85.00,https://samokat.ru/product/yogurt-pitevoy-aktibio-so-zlakami-1-6-260-g
+"Кисломолочный напиток Actimuno, 1,5%, с гранатом, 95 г",41.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-1-5-s-granatom-95-g
+"Йогурт Epica питьевой, манго, 2,9%, 260 г",72.00,https://samokat.ru/product/yogurt-epica-pitevoy-mango-2-9-260-g
+"Питьевой йогурт Epica, 2,9%, с клубникой и маракуйей, 260 г",72.00,https://samokat.ru/product/pitevoy-yogurt-epica-2-9-s-klubnikoy-i-marakuyey-260-g
+"Кисломолочный напиток Actimuno, Кибер Персик, 1,5%, с персиком и малиной, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-kiber-persik-1-5-s-persikom-i-malinoy-s-3-let-95-g
+"Кисломолочный напиток Actimuno, Банана Босс, 1,5%, с бананом, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-banana-boss-1-5-s-bananom-s-3-let-95-g
+"Кисломолочный напиток Actimuno, Рич Клубнич, 1,5%, с клубникой, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-rich-klubnich-1-5-s-klubnikoy-s-3-let-95-g
+"Йогурт питьевой АктиБио натуральный, 1,8%, 260 г",85.00,https://samokat.ru/product/yogurt-pitevoy-aktibio-naturalnyy-1-8-260-g
+"Йогурт питьевой АктиБио с вишней и семенами чиа, 1,5%, 260 г",85.00,https://samokat.ru/product/yogurt-pitevoy-aktibio-s-vishney-i-semenami-chia-1-5-260-g
+"Йогурт Белый город питьевой, банан и малина, 1,5%, 500 г",109.00,https://samokat.ru/product/yogurt-belyy-gorod-pitevoy-banan-i-malina-1-5-500-g
+"Йогурт Белый город питьевой, персик и манго, 1,5%, 500 г",109.00,https://samokat.ru/product/yogurt-belyy-gorod-pitevoy-persik-i-mango-1-5-500-g
+"Питьевой йогурт Богдаша, 1,5%, садовые ягоды, 900 мл",175.00,https://samokat.ru/product/pitevoy-yogurt-bogdasha-1-5-sadovye-yagody-900-ml
+"Йогурт Эконива питьевой, персик, 2,5%, 300 г",69.00,https://samokat.ru/product/yogurt-ekoniva-pitevoy-persik-2-5-300-g
+"Кисломолочный напиток Actimuno, Мангозавр, 1,5%, с манго и ананасом, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-mangozavr-1-5-s-mango-i-ananasom-s-3-let-95-g
+"Кисломолочный напиток Actimuno, 1,5%, с клубникой, 95 г",41.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-1-5-s-klubnikoy-95-g
+"Питьевой йогурт Актибио, 1,5%, без лактозы, с голубикой и ежевикой, 260 г",79.00,https://samokat.ru/product/pitevoy-yogurt-aktibio-1-5-bez-laktozy-s-golubikoy-i-ezhevikoy-260-g
+"Питьевой йогурт АктиБио, 1,5%, безлактозный, без сахара, с клубникой и черникой, 260 г",79.00,https://samokat.ru/product/pitevoy-yogurt-aktibio-1-5-bezlaktoznyy-bez-sakhara-s-klubnikoy-i-chernikoy-260-g
+"Питьевой йогурт АктиБио, 1,5%, безлактозный, без сахара, с персиком и малиной, 260 г",79.00,https://samokat.ru/product/pitevoy-yogurt-aktibio-1-5-bezlaktoznyy-bez-sakhara-s-persikom-i-malinoy-260-g
+"Питьевой йогурт ФрутоНяня, 2,5%, клубника и банан, с 8 месяцев, 200 мл",69.00,https://samokat.ru/product/pitevoy-yogurt-frutonyanya-2-5-klubnika-i-banan-s-8-mesyatsev-200-ml
+"Питьевой йогурт ФрутоНяня, 2,5%, малина, с 8 месяцев, 200 мл",89.00,https://samokat.ru/product/pitevoy-yogurt-frutonyanya-2-5-malina-s-8-mesyatsev-200-ml
+"Питьевой йогурт ФрутоНяня, 2,5%, яблоко и банан, с 8 месяцев, 200 мл",69.00,https://samokat.ru/product/pitevoy-yogurt-frutonyanya-2-5-yabloko-i-banan-s-8-mesyatsev-200-ml
+"Питьевой йогурт Растишка, пломбир с голубикой, с 3 лет, 90 г",45.00,https://samokat.ru/product/pitevoy-yogurt-rastishka-plombir-s-golubikoy-s-3-let-90-g
+"Питьевой йогурт Время му, 2,5%, клубничный, 900 г",135.00,https://samokat.ru/product/pitevoy-yogurt-vremya-mu-2-5-klubnichnyy-900-g

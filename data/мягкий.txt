@@ -1,0 +1,10 @@
+name,price,url
+"Рикотта Самокат, мягкая, 250 г",149.00,https://samokat.ru/product/rikotta-samokat-myagkaya-250-g
+"Мини-ассорти мягких сыров Самокат, копчёные, косичка, 100 г",269.00,https://samokat.ru/product/mini-assorti-myagkikh-syrov-samokat-kopchyonye-kosichka-100-g
+"Сыр бри White Cheese From Zhukovka, мягкий, с белым грибом, 125 г",296.00,https://samokat.ru/product/syr-bri-white-cheese-from-zhukovka-myagkiy-s-belym-gribom-125-g
+"Рикотта Unagrande, 140 г",139.00,https://samokat.ru/product/rikotta-unagrande-140-g
+"Рикотта White Cheese From Zhukovka, мягкая, 180 г",115.00,https://samokat.ru/product/rikotta-white-cheese-from-zhukovka-myagkaya-180-g
+"Моцарелла Molodo Balance, Pizza, мягкая, 200 г",249.00,https://samokat.ru/product/motsarella-molodo-balance-pizza-myagkaya-200-g
+"Моцарелла Cheese House Pizza, полутвёрдый, 40%, 200 г",235.00,https://samokat.ru/product/motsarella-cheese-house-pizza-polutvyordyy-40-200-g
+"Камамбер White Cheese From Zhukovka, мягкий, с чёрным трюфелем, 125 г",195.00,https://samokat.ru/product/kamamber-white-cheese-from-zhukovka-myagkiy-s-chyornym-tryufelem-125-g
+"Маскарпоне Bonfesto, мягкий, 78%, 250 г",359.00,https://samokat.ru/product/maskarpone-bonfesto-myagkiy-78-250-g

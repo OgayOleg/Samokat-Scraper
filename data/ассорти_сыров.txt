@@ -1,0 +1,3 @@
+name,price,url
+"Плавленый сыр White Cheese From Zhukovka Cream Collection, Brie, 125 г",185.00,https://samokat.ru/product/plavlenyy-syr-white-cheese-from-zhukovka-cream-collection-brie-125-g
+"Плавленый сыр White Cheese From Zhukovka Cream Collection, Сamembert, 125 г",185.00,https://samokat.ru/product/plavlenyy-syr-white-cheese-from-zhukovka-cream-collection-samembert-125-g

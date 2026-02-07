@@ -1,0 +1,3 @@
+name,price,url
+"Запеканка President творожная, с кусочками груши, 150 г",199.00,https://samokat.ru/product/zapekanka-president-tvorozhnaya-s-kusochkami-grushi-150-g
+"Творожная запеканка А. Ростагрокомплекс, 13%, с фруктовым наполнителем вишня, 100 г",165.00,https://samokat.ru/product/tvorozhnaya-zapekanka-a-rostagrokompleks-13-s-fruktovym-napolnitelem-vishnya-100-g

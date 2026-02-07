@@ -1,0 +1,35 @@
+name,price,url
+"Молочный кофейный напиток Самокат, капучино, 2,5%, 245 мл",159.00,https://samokat.ru/product/molochnyy-kofeynyy-napitok-samokat-kapuchino-2-5-245-ml
+"Молочный кофейный напиток Самокат, латте, со вкусом банана и карамели, 2,7%, 245 мл",159.00,https://samokat.ru/product/molochnyy-kofeynyy-napitok-samokat-latte-so-vkusom-banana-i-karameli-2-7-245-ml
+"Молочный коктейль Самокат, 2,5%, детский, ваниль, с 12 месяцев, 200 мл",59.00,https://samokat.ru/product/molochnyy-kokteyl-samokat-2-5-detskiy-vanil-s-12-mesyatsev-200-ml
+"Молочный коктейль Самокат, 2,5%, клубника, с 12 месяцев, 205 г",59.00,https://samokat.ru/product/molochnyy-kokteyl-samokat-2-5-klubnika-s-12-mesyatsev-205-g
+"Молочный коктейль Самокат, 2,5%, банан, с 12 месяцев, 205 г",59.00,https://samokat.ru/product/molochnyy-kokteyl-samokat-2-5-banan-s-12-mesyatsev-205-g
+"Кисломолочный напиток Exponenta, Immuno Shot, 1,5%, маршмеллоу, 100 г",39.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-immuno-shot-1-5-marshmellou-100-g
+"Кисломолочный напиток Exponenta Immuno Shot, 1,5%, клубника, 100 г",39.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-immuno-shot-1-5-klubnika-100-g-1
+"Молочный коктейль Чудо, Густой десерт, 2%, фисташковый пломбир, 200 мл",69.00,https://samokat.ru/product/molochnyy-kokteyl-chudo-gustoy-desert-2-fistashkovyy-plombir-200-ml
+"Молочный коктейль Чудо, Густой десерт, 2%, кокос и сливки, 200 мл",69.00,https://samokat.ru/product/molochnyy-kokteyl-chudo-gustoy-desert-2-kokos-i-slivki-200-ml
+"Молочный коктейль Чудо, 3%, шоколад, 200 мл",69.00,https://samokat.ru/product/molochnyy-kokteyl-chudo-3-shokolad-200-ml
+"Молочный коктейль Чудо, 2%, клубника, 960 г",175.00,https://samokat.ru/product/molochnyy-kokteyl-chudo-2-klubnika-960-g
+"Сывороточно-молочный напиток Мажитэль, с соком, клубника, 950 г",155.00,https://samokat.ru/product/syvorotochno-molochnyy-napitok-mazhitel-s-sokom-klubnika-950-g
+"Сывороточно-молочный напиток Мажитэль, с соком, пина колада, 950 мл",165.00,https://samokat.ru/product/syvorotochno-molochnyy-napitok-mazhitel-s-sokom-pina-kolada-950-ml
+"Сывороточно-молочный напиток Мажитэль, с соком, персик и маракуйя, 950 г",165.00,https://samokat.ru/product/syvorotochno-molochnyy-napitok-mazhitel-s-sokom-persik-i-marakuyya-950-g
+"Сывороточно-молочный напиток Мажитэль, с соком, яблоко, лайм и мята, 950 г",155.00,https://samokat.ru/product/syvorotochno-molochnyy-napitok-mazhitel-s-sokom-yabloko-laym-i-myata-950-g
+"Молочный коктейль Neo High Protein, шоколад, 260 г",169.00,https://samokat.ru/product/molochnyy-kokteyl-neo-high-protein-shokolad-260-g
+"Молочный коктейль Neo High Protein, карамель и латте, 260 г",149.00,https://samokat.ru/product/molochnyy-kokteyl-neo-high-protein-karamel-i-latte-260-g
+"Молочный коктейль Parmalat, Капучино, 500 мл",135.00,https://samokat.ru/product/molochnyy-kokteyl-parmalat-kapuchino-500-ml
+"Кисломолочный напиток Exponenta Bio-Skyr 3 в 1, обезжиренный, клубника и киви, 500 г",179.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-bio-skyr-3-v-1-obezzhirennyy-klubnika-i-kivi-500-g
+"Кисломолочный напиток Exponenta Bio-Skyr, 3 в 1, обезжиренный, черника и голубика, 500 г",189.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-bio-skyr-3-v-1-obezzhirennyy-chernika-i-golubika-500-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, лимонный чизкейк, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-limonnyy-chizkeyk-250-g
+"Коктейль молочный Авида Авишка ультрапастеризованный, клубничный, 2,5%, 200 г",49.00,https://samokat.ru/product/kokteyl-molochnyy-avida-avishka-ultrapasterizovannyy-klubnichnyy-2-5-200-g
+"Коктейль-мороженое Богдаша, 1,5%, со вкусом клубничного пломбира, 900 мл",149.00,https://samokat.ru/product/kokteyl-morozhenoe-bogdasha-1-5-so-vkusom-klubnichnogo-plombira-900-ml
+"Коктейль-мороженое Богдаша, 1,5%, со вкусом сливочного пломбира, 900 мл",149.00,https://samokat.ru/product/kokteyl-morozhenoe-bogdasha-1-5-so-vkusom-slivochnogo-plombira-900-ml
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, кокос и миндаль, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-kokos-i-mindal-250-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-250-g
+"Шоколадный молочный коктейль Parmalat, Чоколатта, 500 мл",135.00,https://samokat.ru/product/shokoladnyy-molochnyy-kokteyl-parmalat-chokolatta-500-ml
+"Молочный коктейль ФрутоНяня, 2,1%, клубника и земляника, с 12 месяцев, 200 мл",59.00,https://samokat.ru/product/molochnyy-kokteyl-frutonyanya-2-1-klubnika-i-zemlyanika-s-12-mesyatsev-200-ml
+"Молочный коктейль Растишка, 2%, бананово-клубничное мороженое, 210 г",46.00,https://samokat.ru/product/molochnyy-kokteyl-rastishka-2-bananovo-klubnichnoe-morozhenoe-210-g
+"Молочный коктейль ФрутоНяня, 2,1%, банан, с 12 месяцев, 200 мл",59.00,https://samokat.ru/product/molochnyy-kokteyl-frutonyanya-2-1-banan-s-12-mesyatsev-200-ml
+"Молочный коктейль Растишка, 2%, со вкусом ванильного мороженого, с 3 лет, 210 мл",48.00,https://samokat.ru/product/molochnyy-kokteyl-rastishka-2-so-vkusom-vanilnogo-morozhenogo-s-3-let-210-ml
+"Молочный коктейль Растишка, со вкусом клубники, с 3 лет, 2%, 210 мл",48.00,https://samokat.ru/product/molochnyy-kokteyl-rastishka-so-vkusom-klubniki-s-3-let-2-210-ml
+"Молочный коктейль Топтыжка, 2%, клубничный пломбир с маршмеллоу, ультрапастеризованный, 200 мл",49.00,https://samokat.ru/product/molochnyy-kokteyl-toptyzhka-2-klubnichnyy-plombir-s-marshmellou-ultrapasterizovannyy-200-ml
+"Кисломолочный напиток Molvest Protein Max, обезжиренный, без лактозы, гранат и малина, 240 г",179.00,https://samokat.ru/product/kislomolochnyy-napitok-molvest-protein-max-obezzhirennyy-bez-laktozy-granat-i-malina-240-g

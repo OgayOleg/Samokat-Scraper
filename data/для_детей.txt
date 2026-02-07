@@ -1,22 +1,49 @@
 name,price,url
-"Творог Самокат, 5%, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-samokat-5-s-6-mesyatsev-100-g
-"Творог Самокат, 4,2%, с грушей, с 6 месяцев, 100 г",59.00,https://samokat.ru/product/tvorog-samokat-4-2-s-grushey-s-6-mesyatsev-100-g
-"Бифилайф Самокат, 2,5%, яблоко и банан, с 8 месяцев, 210 г",59.00,https://samokat.ru/product/bifilayf-samokat-2-5-yabloko-i-banan-s-8-mesyatsev-210-g
+"Творожная палочка Самокат, глазированная, с ароматом бабл-гам, арбуза, дыни и малины, 30 г",59.00,https://samokat.ru/product/tvorozhnaya-palochka-samokat-glazirovannaya-s-aromatom-babl-gam-arbuza-dyni-i-maliny-30-g
+"Творожный сырок Самокат, со вкусом юдзу, глазированный, 40 г",69.00,https://samokat.ru/product/tvorozhnyy-syrok-samokat-so-vkusom-yudzu-glazirovannyy-40-g
+"Молочный коктейль Самокат, 2,5%, детский, ваниль, с 12 месяцев, 200 мл",59.00,https://samokat.ru/product/molochnyy-kokteyl-samokat-2-5-detskiy-vanil-s-12-mesyatsev-200-ml
 "Бифилайф Самокат, 2,5%, черника, с 8 месяцев, 210 г",59.00,https://samokat.ru/product/bifilayf-samokat-2-5-chernika-s-8-mesyatsev-210-g
+"Молочный коктейль Самокат, 2,5%, клубника, с 12 месяцев, 205 г",59.00,https://samokat.ru/product/molochnyy-kokteyl-samokat-2-5-klubnika-s-12-mesyatsev-205-g
+"Молочный коктейль Самокат, 2,5%, банан, с 12 месяцев, 205 г",59.00,https://samokat.ru/product/molochnyy-kokteyl-samokat-2-5-banan-s-12-mesyatsev-205-g
+"Из Беларуси: Пудинг Самокат, без сахара, с фруктами, сливками и какао, с 9 месяцев, 90 г",59.00,https://samokat.ru/product/iz-belarusi-puding-samokat-bez-sakhara-s-fruktami-slivkami-i-kakao-s-9-mesyatsev-90-g
+"Творог Самокат с клубникой, с 6 месяцев, 4,2%, 100 г",59.00,https://samokat.ru/product/tvorog-samokat-s-klubnikoy-s-6-mesyatsev-4-2-100-g
+"Творожный десерт Самокат, в молочном шоколаде, с клубникой и бисквитом, 40 г",79.00,https://samokat.ru/product/tvorozhnyy-desert-samokat-v-molochnom-shokolade-s-klubnikoy-i-biskvitom-40-g
+"Питьевой йогурт Агуша, 2,7%, клубника и банан, с 8 месяцев, 180 г",55.00,https://samokat.ru/product/pitevoy-yogurt-agusha-2-7-klubnika-i-banan-s-8-mesyatsev-180-g
+"Питьевой йогурт Агуша, 2,7%, яблоко и груша, с 8 месяцев, 180 г",56.00,https://samokat.ru/product/pitevoy-yogurt-agusha-2-7-yabloko-i-grusha-s-8-mesyatsev-180-g
+"Питьевой йогурт Агуша, 2,7%, со вкусом малинового пломбира, с 12 месяцев, 180 г",51.00,https://samokat.ru/product/pitevoy-yogurt-agusha-2-7-so-vkusom-malinovogo-plombira-s-12-mesyatsev-180-g
 "Творог Агуша, 4,5%, с 6 месяцев, 100 г",47.00,https://samokat.ru/product/tvorog-agusha-4-5-s-6-mesyatsev-100-g
 "Творог Агуша, 3,9%, яблоко и банан, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-3-9-yabloko-i-banan-s-6-mesyatsev-100-g
 "Творог Агуша Засыпай-ка, 3,8%, клубника, банан и мелисса, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-zasypay-ka-3-8-klubnika-banan-i-melissa-s-6-mesyatsev-100-g
 "Творог Агуша, 3,9%, груша, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-3-9-grusha-s-6-mesyatsev-100-g
-"Кефир Агуша Первая ложка, 3,2%, с 8 месяцев, 200 мл",56.00,https://samokat.ru/product/kefir-agusha-pervaya-lozhka-3-2-s-8-mesyatsev-200-ml
-"Молоко Агуша, 3,2%, для детей, ультрапастеризованное, 950 г",155.00,https://samokat.ru/product/moloko-agusha-3-2-dlya-detey-ultrapasterizovannoe-950-g
-"Молоко Агуша, для детей, 2,5%, стерилизованное, с 8 месяцев, 200 мл",59.00,https://samokat.ru/product/moloko-agusha-dlya-detey-2-5-sterilizovannoe-s-8-mesyatsev-200-ml
-"Молоко Агуша, 3,2%, для детей, ультрапастеризованное, витаминизированное, 500 г",95.00,https://samokat.ru/product/moloko-agusha-3-2-dlya-detey-ultrapasterizovannoe-vitaminizirovannoe-500-g
-"Биолакт Тёма, 3,4%, без сахара, с 8 месяцев, 206 г",59.00,https://samokat.ru/product/biolakt-tyoma-3-4-bez-sakhara-s-8-mesyatsev-206-g
-"Кисломолочный биолакт Тёма, 3%, клубника и банан, с 8 месяцев, 206 г",59.00,https://samokat.ru/product/kislomolochnyy-biolakt-tyoma-3-klubnika-i-banan-s-8-mesyatsev-206-g
-"Биотворог Тёма, 4%, с клубникой и бананом, с 6 месяцев, 95 г",59.00,https://samokat.ru/product/biotvorog-tyoma-4-s-klubnikoy-i-bananom-s-6-mesyatsev-95-g
-"Молоко Тёма, для детей, 3,2%, ультрапастеризованное, с 8 месяцев, 200 мл",59.00,https://samokat.ru/product/moloko-tyoma-dlya-detey-3-2-ultrapasterizovannoe-s-8-mesyatsev-200-ml
-"Кисломолочный напиток Actimuno, Рич Клубнич, 1,5%, с клубникой, с 3 лет, 95 г",49.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-rich-klubnich-1-5-s-klubnikoy-s-3-let-95-g
+"Творог Агуша, 3,9%, черника, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-agusha-3-9-chernika-s-6-mesyatsev-100-g
+"Творог Агуша, 3,9%, малиновый пломбир, с 12 месяцев, 100 г",43.00,https://samokat.ru/product/tvorog-agusha-3-9-malinovyy-plombir-s-12-mesyatsev-100-g
+"Кисломолочный напиток Имунеле For Kids, 1,5%, клубничное мороженое, с 3 лет, 100 г",39.00,https://samokat.ru/product/kislomolochnyy-napitok-imunele-for-kids-1-5-klubnichnoe-morozhenoe-s-3-let-100-g
+"Молочный коктейль Чудо, 3%, шоколад, 200 мл",69.00,https://samokat.ru/product/molochnyy-kokteyl-chudo-3-shokolad-200-ml
+"Биотворог Тёма, 4%, с клубникой и бананом, с 6 месяцев, 95 г",65.00,https://samokat.ru/product/biotvorog-tyoma-4-s-klubnikoy-i-bananom-s-6-mesyatsev-95-g
+"Творог Растишка, с клубникой, с 3 лет, 110 г",59.00,https://samokat.ru/product/tvorog-rastishka-s-klubnikoy-s-3-let-110-g
+"Молочный коктейль Растишка, 2%, со вкусом ванильного мороженого, с 3 лет, 210 мл",48.00,https://samokat.ru/product/molochnyy-kokteyl-rastishka-2-so-vkusom-vanilnogo-morozhenogo-s-3-let-210-ml
+"Молочный коктейль Растишка, со вкусом клубники, с 3 лет, 2%, 210 мл",48.00,https://samokat.ru/product/molochnyy-kokteyl-rastishka-so-vkusom-klubniki-s-3-let-2-210-ml
+"Питьевой йогурт Растишка, пломбир с голубикой, с 3 лет, 90 г",45.00,https://samokat.ru/product/pitevoy-yogurt-rastishka-plombir-s-golubikoy-s-3-let-90-g
+"Кисломолочный напиток Имунеле, 1,2%, земляника, 100 г",39.00,https://samokat.ru/product/kislomolochnyy-napitok-imunele-1-2-zemlyanika-100-g
+"Йогурт Растишка, 3%, яблоко и груша, с печеньем, с 3 лет, 118 г",85.00,https://samokat.ru/product/yogurt-rastishka-3-yabloko-i-grusha-s-pechenem-s-3-let-118-g
+"Творог ФрутоНяня, 4,2%, малина, с 6 месяцев, 100 г",59.00,https://samokat.ru/product/tvorog-frutonyanya-4-2-malina-s-6-mesyatsev-100-g
+"Молочный коктейль ФрутоНяня, 2,1%, клубника и земляника, с 12 месяцев, 200 мл",59.00,https://samokat.ru/product/molochnyy-kokteyl-frutonyanya-2-1-klubnika-i-zemlyanika-s-12-mesyatsev-200-ml
+"Питьевой йогурт ФрутоНяня, 2,5%, клубника и банан, с 8 месяцев, 200 мл",69.00,https://samokat.ru/product/pitevoy-yogurt-frutonyanya-2-5-klubnika-i-banan-s-8-mesyatsev-200-ml
+"Питьевой йогурт ФрутоНяня, 2,5%, малина, с 8 месяцев, 200 мл",89.00,https://samokat.ru/product/pitevoy-yogurt-frutonyanya-2-5-malina-s-8-mesyatsev-200-ml
+"Питьевой йогурт ФрутоНяня, 2,5%, яблоко и банан, с 8 месяцев, 200 мл",69.00,https://samokat.ru/product/pitevoy-yogurt-frutonyanya-2-5-yabloko-i-banan-s-8-mesyatsev-200-ml
+"Молочный коктейль ФрутоНяня, 2,1%, банан, с 12 месяцев, 200 мл",59.00,https://samokat.ru/product/molochnyy-kokteyl-frutonyanya-2-1-banan-s-12-mesyatsev-200-ml
+"Творог Растишка, 3,5%, клубника и банан, с печеньем, с 3 лет, 108 г",89.00,https://samokat.ru/product/tvorog-rastishka-3-5-klubnika-i-banan-s-pechenem-s-3-let-108-g
+"Молочный коктейль Растишка, 2%, бананово-клубничное мороженое, 210 г",46.00,https://samokat.ru/product/molochnyy-kokteyl-rastishka-2-bananovo-klubnichnoe-morozhenoe-210-g
+"Бисквитное пирожное Kinder, Молочный ломтик, 28 г",85.00,https://samokat.ru/product/biskvitnoe-pirozhnoe-kinder-molochnyy-lomtik-28-g
+"Бисквитное пирожное Kinder Pingui, шоколад, 30 г",89.00,https://samokat.ru/product/biskvitnoe-pirozhnoe-kinder-pingui-shokolad-30-g
+"Коктейль молочный Авида Авишка ультрапастеризованный, клубничный, 2,5%, 200 г",49.00,https://samokat.ru/product/kokteyl-molochnyy-avida-avishka-ultrapasterizovannyy-klubnichnyy-2-5-200-g
+"Кисломолочный напиток Actimuno, Рич Клубнич, 1,5%, с клубникой, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-rich-klubnich-1-5-s-klubnikoy-s-3-let-95-g
 "Кисломолочный напиток Actimuno, Кибер Персик, 1,5%, с персиком и малиной, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-kiber-persik-1-5-s-persikom-i-malinoy-s-3-let-95-g
-"Творог Растишка, 3,5%, клубника и банан, с печеньем, с 3 лет, 108 г",95.00,https://samokat.ru/product/tvorog-rastishka-3-5-klubnika-i-banan-s-pechenem-s-3-let-108-g
-"Йогурт Растишка, 3%, яблоко и груша, с печеньем, с 3 лет, 118 г",60.00,https://samokat.ru/product/yogurt-rastishka-3-yabloko-i-grusha-s-pechenem-s-3-let-118-g
-"Питьевой йогурт Растишка, пломбир с голубикой, с 3 лет, 90 г",44.00,https://samokat.ru/product/pitevoy-yogurt-rastishka-plombir-s-golubikoy-s-3-let-90-g
+"Кисломолочный напиток Actimuno, Банана Босс, 1,5%, с бананом, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-banana-boss-1-5-s-bananom-s-3-let-95-g
+"Кисломолочный напиток Actimuno, Мангозавр, 1,5%, с манго и ананасом, с 3 лет, 95 г",45.00,https://samokat.ru/product/kislomolochnyy-napitok-actimuno-mangozavr-1-5-s-mango-i-ananasom-s-3-let-95-g
+"Йогурт Растишка, 3%, клубника, со злаковыми шариками в белой, шоколадной и цветной глазури, 117 г",85.00,https://samokat.ru/product/yogurt-rastishka-3-klubnika-so-zlakovymi-sharikami-v-beloy-shokoladnoy-i-tsvetnoy-glazuri-117-g
+"Биотворог Тёма с бананом, с 6 месяцев, 4%, 95 г",65.00,https://samokat.ru/product/biotvorog-tyoma-s-bananom-s-6-mesyatsev-4-95-g
+"Молочный коктейль Топтыжка, 2%, клубничный пломбир с маршмеллоу, ультрапастеризованный, 200 мл",49.00,https://samokat.ru/product/molochnyy-kokteyl-toptyzhka-2-klubnichnyy-plombir-s-marshmellou-ultrapasterizovannyy-200-ml
+"Творог Самокат, 5%, с 6 месяцев, 100 г",49.00,https://samokat.ru/product/tvorog-samokat-5-s-6-mesyatsev-100-g
+"Биотворог Тёма, классический, с 6 месяцев, 4,5%, 95 г",55.00,https://samokat.ru/product/biotvorog-tyoma-klassicheskiy-s-6-mesyatsev-4-5-95-g
+"Бисквитное пирожное Kinder, Молочный ломтик, клубника, 28 г",85.00,https://samokat.ru/product/biskvitnoe-pirozhnoe-kinder-molochnyy-lomtik-klubnika-28-g

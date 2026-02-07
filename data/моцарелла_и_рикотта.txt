@@ -1,0 +1,13 @@
+name,price,url
+"Мини-моцарелла Самокат, мягкая, 125 г",149.00,https://samokat.ru/product/mini-motsarella-samokat-myagkaya-125-g
+"Рикотта Самокат, мягкая, 250 г",149.00,https://samokat.ru/product/rikotta-samokat-myagkaya-250-g
+"Мини-моцарелла Самокат, мягкая, 120 г",149.00,https://samokat.ru/product/mini-motsarella-samokat-myagkaya-120-g
+"Моцарелла Самокат, мягкая, 130 г",149.00,https://samokat.ru/product/motsarella-samokat-myagkaya-130-g
+"Моцарелла Самокат, тёртая, 150 г",169.00,https://samokat.ru/product/motsarella-samokat-tyortaya-150-g
+"Моцарелла Unagrande, без лактозы, протеиновая, мягкая, палочки, 35%, 120 г",219.00,https://samokat.ru/product/motsarella-unagrande-bez-laktozy-proteinovaya-myagkaya-palochki-35-120-g
+"Моцарелла Бонджорно, мягкая, палочки, 120 г",239.00,https://samokat.ru/product/motsarella-bondzhorno-myagkaya-palochki-120-g
+"Моцарелла Cheese House Pizza, полутвёрдый, 40%, 200 г",235.00,https://samokat.ru/product/motsarella-cheese-house-pizza-polutvyordyy-40-200-g
+"Моцарелла Galbani, мягкая, 45%, 125 г",205.00,https://samokat.ru/product/motsarella-galbani-myagkaya-45-125-g
+"Моцарелла Pretto, твёрдая, для бутербродов, 45%, 200 г",289.00,https://samokat.ru/product/motsarella-pretto-tvyordaya-dlya-buterbrodov-45-200-g
+"Рикотта Unagrande, 140 г",139.00,https://samokat.ru/product/rikotta-unagrande-140-g
+"Рикотта White Cheese From Zhukovka, мягкая, 180 г",115.00,https://samokat.ru/product/rikotta-white-cheese-from-zhukovka-myagkaya-180-g

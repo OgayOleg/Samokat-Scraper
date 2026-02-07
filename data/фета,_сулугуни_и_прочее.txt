@@ -1,0 +1,11 @@
+name,price,url
+"Сыр сулугуни Самокат, 280 г",339.00,https://samokat.ru/product/syr-suluguni-samokat-280-g
+"Фета Самокат, 250 г",219.00,https://samokat.ru/product/feta-samokat-250-g
+"Творожный сыр Hochland, с зеленью, 60%, 140 г",159.00,https://samokat.ru/product/tvorozhnyy-syr-hochland-s-zelenyu-60-140-g
+"Брынза Hochland, рассольная, 250 г",169.00,https://samokat.ru/product/brynza-hochland-rassolnaya-250-g
+"Фетакса Hochland, в рассоле, 45%, 250 г",349.00,https://samokat.ru/product/fetaksa-hochland-v-rassole-45-250-g
+"Брынза Président, мягкая, 0,45, 250 г",269.00,https://samokat.ru/product/brynza-president-myagkaya-0-45-250-g
+"Рассольный продукт Сиртаки, Original, для греческого салата, 55%, 200 г",185.00,https://samokat.ru/product/rassolnyy-produkt-sirtaki-original-dlya-grecheskogo-salata-55-200-g
+"Фета Schönfeld Chef, кубики в рассоле, 45%, 350 г",259.00,https://samokat.ru/product/feta-schonfeld-chef-kubiki-v-rassole-45-350-g
+"Сулугуни Molodo Balance, по-кавказски, 200 г",259.00,https://samokat.ru/product/suluguni-molodo-balance-po-kavkazski-200-g
+"Сыр Сербская брынза Mlekara Sabac, мягкий, с сывороткой, 40%, 200 г",289.00,https://samokat.ru/product/syr-serbskaya-brynza-mlekara-sabac-myagkiy-s-syvorotkoy-40-200-g

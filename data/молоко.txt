@@ -1,30 +1,8 @@
 name,price,url
-"Молоко Самокат, 3,5-4,5%, пастеризованное, 1,8 кг",229.00,https://samokat.ru/product/moloko-samokat-3-5-4-5-pasterizovannoe-1-8-kg
-"Молоко Домик в деревне, 1,8%, без лактозы, ультрапастеризованное, 950 г",145.00,https://samokat.ru/product/moloko-domik-v-derevne-1-8-bez-laktozy-ultrapasterizovannoe-950-g
-"Молоко Домик в деревне, 3,2%, пастеризованное, 930 мл",119.00,https://samokat.ru/product/moloko-domik-v-derevne-3-2-pasterizovannoe-930-ml
-"Молоко Домик в деревне, 2,5%, пастеризованное, 930 мл",99.00,https://samokat.ru/product/moloko-domik-v-derevne-2-5-pasterizovannoe-930-ml
-"Молоко Домик в деревне, 3,2%, ультрапастеризованное, 925 мл",145.00,https://samokat.ru/product/moloko-domik-v-derevne-3-2-ultrapasterizovannoe-925-ml
-"Чашка DVKB, Чистяков латте, марбл, чёрный, 320 мл",875.00,https://samokat.ru/product/chashka-dvkb-chistyakov-latte-marbl-chyornyy-320-ml
-"Молоко Домик в деревне, 2,5%, ультрапастеризованное, 950 г",139.00,https://samokat.ru/product/moloko-domik-v-derevne-2-5-ultrapasterizovannoe-950-g
-"Молоко Агуша, 3,2%, для детей, ультрапастеризованное, 950 г",155.00,https://samokat.ru/product/moloko-agusha-3-2-dlya-detey-ultrapasterizovannoe-950-g
-"Молоко Агуша, для детей, 2,5%, стерилизованное, с 8 месяцев, 200 мл",59.00,https://samokat.ru/product/moloko-agusha-dlya-detey-2-5-sterilizovannoe-s-8-mesyatsev-200-ml
-"Молоко Агуша, 3,2%, для детей, ультрапастеризованное, витаминизированное, 500 г",95.00,https://samokat.ru/product/moloko-agusha-3-2-dlya-detey-ultrapasterizovannoe-vitaminizirovannoe-500-g
-"Молоко Parmalat Comfort, 1,8%, безлактозное, 1 л",169.00,https://samokat.ru/product/moloko-parmalat-comfort-1-8-bezlaktoznoe-1-l
-"Молоко Простоквашино, 2,5%, пастеризованное, 930 мл",99.00,https://samokat.ru/product/moloko-prostokvashino-2-5-pasterizovannoe-930-ml
-"Молоко Село Зелёное, 3,2%, пастеризованное, 1,947 л",219.00,https://samokat.ru/product/moloko-selo-zelyonoe-3-2-pasterizovannoe-1-947-l
+"Молоко Parmalat Comfort, 1,8%, безлактозное, 1 л",179.00,https://samokat.ru/product/moloko-parmalat-comfort-1-8-bezlaktoznoe-1-l
+"Молоко Parmalat Protein, 1,8%, безлактозное, ультрапастеризованное, 500 мл",159.00,https://samokat.ru/product/moloko-parmalat-protein-1-8-bezlaktoznoe-ultrapasterizovannoe-500-ml
+"Молоко Parmalat Comfort, 3,5%, безлактозное, 1 л",219.00,https://samokat.ru/product/moloko-parmalat-comfort-3-5-bezlaktoznoe-1-l
 "Молоко Самокат, 1,8%, без лактозы, ультрапастеризованное, 975 мл",149.00,https://samokat.ru/product/moloko-samokat-1-8-bez-laktozy-ultrapasterizovannoe-975-ml
-"Молоко Самокат, 1%, пастеризованное, 900 мл",99.00,https://samokat.ru/product/moloko-samokat-1-pasterizovannoe-900-ml
-"Молоко Самокат, 2,5%, пастеризованное, 950 мл",99.00,https://samokat.ru/product/moloko-samokat-2-5-pasterizovannoe-950-ml
-"Молоко Самокат, 2,5%, ультрапастеризованное, 975 мл",129.00,https://samokat.ru/product/moloko-samokat-2-5-ultrapasterizovannoe-975-ml
-"Молоко Самокат, 3,2%, ультрапастеризованное, 975 мл",139.00,https://samokat.ru/product/moloko-samokat-3-2-ultrapasterizovannoe-975-ml
-"Молоко Самокат цельное, пастеризованное, 3,2-6%, 900 мл",109.00,https://samokat.ru/product/moloko-samokat-tselnoe-pasterizovannoe-3-2-6-900-ml
-"Молоко Parmalat Protein, 1,8%, безлактозное, ультрапастеризованное, 500 мл",165.00,https://samokat.ru/product/moloko-parmalat-protein-1-8-bezlaktoznoe-ultrapasterizovannoe-500-ml
-"Молоко Parmalat Comfort, 3,5%, безлактозное, 1 л",215.00,https://samokat.ru/product/moloko-parmalat-comfort-3-5-bezlaktoznoe-1-l
-"Молоко Parmalat, 1,8%, ультрапастеризованное, 1 л",145.00,https://samokat.ru/product/moloko-parmalat-1-8-ultrapasterizovannoe-1-l
-"Молоко Простоквашино, 1,5%, безлактозное, ультрапастеризованное, 970 мл",149.00,https://samokat.ru/product/moloko-prostokvashino-1-5-bezlaktoznoe-ultrapasterizovannoe-970-ml
-"Молоко Село Зелёное, 2,5%, ультрапастеризованное, 950 мл",135.00,https://samokat.ru/product/moloko-selo-zelyonoe-2-5-ultrapasterizovannoe-950-ml
-"Молоко Простоквашино, 3,4-4,5%, отборное, пастеризованное, 930 мл",119.00,https://samokat.ru/product/moloko-prostokvashino-3-4-4-5-otbornoe-pasterizovannoe-930-ml
-"Молоко Вологодское, 3,2%, ультрапастеризованное, 200 мл",35.00,https://samokat.ru/product/moloko-vologodskoe-3-2-ultrapasterizovannoe-200-ml
-"Молоко Село Зелёное, 3,2%, ультрапастеризованное, 950 мл",125.00,https://samokat.ru/product/moloko-selo-zelyonoe-3-2-ultrapasterizovannoe-950-ml
-"Молоко Parmalat, 3,5%, ультрапастеризованное, 1 л",159.00,https://samokat.ru/product/moloko-parmalat-3-5-ultrapasterizovannoe-1-l
-"Молоко Тёма, для детей, 3,2%, ультрапастеризованное, с 8 месяцев, 200 мл",59.00,https://samokat.ru/product/moloko-tyoma-dlya-detey-3-2-ultrapasterizovannoe-s-8-mesyatsev-200-ml
+"Молоко Домик в деревне, 1,8%, без лактозы, ультрапастеризованное, 950 г",145.00,https://samokat.ru/product/moloko-domik-v-derevne-1-8-bez-laktozy-ultrapasterizovannoe-950-g
+"Молоко Простоквашино, 1,5%, безлактозное, ультрапастеризованное, 970 мл",155.00,https://samokat.ru/product/moloko-prostokvashino-1-5-bezlaktoznoe-ultrapasterizovannoe-970-ml
+"Молоко Простоквашино, 2,5%, безлактозное, ультрапастеризованное, 970 мл",159.00,https://samokat.ru/product/moloko-prostokvashino-2-5-bezlaktoznoe-ultrapasterizovannoe-970-ml

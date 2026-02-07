@@ -1,0 +1,10 @@
+name,price,url
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, лимонный чизкейк, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-limonnyy-chizkeyk-250-g
+"Кисломолочный продукт Exponenta High-Pro, обезжиренный, без сахара, черника и малина, 160 г",139.00,https://samokat.ru/product/kislomolochnyy-produkt-exponenta-high-pro-obezzhirennyy-bez-sakhara-chernika-i-malina-160-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, без сахара, малина и банан, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-bez-sakhara-malina-i-banan-250-g
+"Кисломолочный напиток Molvest Protein Max, обезжиренный, без лактозы, гранат и малина, 240 г",179.00,https://samokat.ru/product/kislomolochnyy-napitok-molvest-protein-max-obezzhirennyy-bez-laktozy-granat-i-malina-240-g
+"Творог Самокат, 6%, мягкий, высокобелковый, 120 г",69.00,https://samokat.ru/product/tvorog-samokat-6-myagkiy-vysokobelkovyy-120-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, кокос и миндаль, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-kokos-i-mindal-250-g
+"Кисломолочный напиток Exponenta High-Pro, обезжиренный, 250 г",199.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-high-pro-obezzhirennyy-250-g
+"Кисломолочный напиток Exponenta Bio-Skyr 3 в 1, обезжиренный, клубника и киви, 500 г",179.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-bio-skyr-3-v-1-obezzhirennyy-klubnika-i-kivi-500-g
+"Кисломолочный напиток Exponenta Bio-Skyr, 3 в 1, обезжиренный, черника и голубика, 500 г",189.00,https://samokat.ru/product/kislomolochnyy-napitok-exponenta-bio-skyr-3-v-1-obezzhirennyy-chernika-i-golubika-500-g

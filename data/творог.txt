@@ -1,27 +1,25 @@
 name,price,url
-"Творог Самокат пластовой, обезжиренный, 250 г",139.00,https://samokat.ru/product/tvorog-samokat-plastovoy-obezzhirennyy-250-g
-"Творог Самокат, 5%, пластовой, 250 г",159.00,https://samokat.ru/product/tvorog-samokat-5-plastovoy-250-g
 "Творог Самокат, 6%, мягкий, высокобелковый, 120 г",69.00,https://samokat.ru/product/tvorog-samokat-6-myagkiy-vysokobelkovyy-120-g
-"Творог Самокат, 5%, 180 г",105.00,https://samokat.ru/product/tvorog-samokat-5-180-g
-"Творог Самокат, 9%, 180 г",109.00,https://samokat.ru/product/tvorog-samokat-9-180-g
-"Творог Самокат, 5%, рассыпчатый, 200 г",109.00,https://samokat.ru/product/tvorog-samokat-5-rassypchatyy-200-g
-"Салатник Domenik Laguna, 14 см, 6 шт.",2069.00,https://samokat.ru/product/salatnik-domenik-laguna-14-sm-6-sht
-"Творожное зерно Село Зелёное, 5%, в сливках, малина, 130 г",95.00,https://samokat.ru/product/tvorozhnoe-zerno-selo-zelyonoe-5-v-slivkakh-malina-130-g
+"Творог Самокат, 5%, 180 г",89.00,https://samokat.ru/product/tvorog-samokat-5-180-g
+"Творог Самокат, 9%, 180 г",95.00,https://samokat.ru/product/tvorog-samokat-9-180-g
+"Творожное зерно Село Зелёное, 5%, в сливках, малина, 130 г",89.00,https://samokat.ru/product/tvorozhnoe-zerno-selo-zelyonoe-5-v-slivkakh-malina-130-g
 "Творог Простоквашино, 2%, 200 г",105.00,https://samokat.ru/product/tvorog-prostokvashino-2-200-g
-"Творог Простоквашино, 5%, 200 г",129.00,https://samokat.ru/product/tvorog-prostokvashino-5-200-g
-"Творог Село Зелёное, 5%, с сохранённой структурой зерна, 200 г",125.00,https://samokat.ru/product/tvorog-selo-zelyonoe-5-s-sokhranyonnoy-strukturoy-zerna-200-g
-"Творог Резной палисад, 5%, 400 г",178.00,https://samokat.ru/product/tvorog-reznoy-palisad-5-400-g
-"Творог Чабан, рассыпчатый, 5%, 350 г",185.00,https://samokat.ru/product/tvorog-chaban-rassypchatyy-5-350-g
-"Творог Село Зелёное, 0,5%, 200 г",105.00,https://samokat.ru/product/tvorog-selo-zelyonoe-0-5-200-g
-"Творожное зерно Село Зелёное, 5%, в сливках, с грушей, 130 г",95.00,https://samokat.ru/product/tvorozhnoe-zerno-selo-zelyonoe-5-v-slivkakh-s-grushey-130-g
-"Творог Danke, 5%, безлактозный, 350 г",189.00,https://samokat.ru/product/tvorog-danke-5-bezlaktoznyy-350-g
-"Творог Экомилк, 9%, рассыпчатый, 350 г",169.00,https://samokat.ru/product/tvorog-ekomilk-9-rassypchatyy-350-g
-"Мягкий творог Простоквашино, обезжиренный, 120 г",69.00,https://samokat.ru/product/myagkiy-tvorog-prostokvashino-obezzhirennyy-120-g
-"Творог Чабан, рассыпчатый, 9%, 350 г",195.00,https://samokat.ru/product/tvorog-chaban-rassypchatyy-9-350-g
+"Творог Простоквашино, 5%, 200 г",125.00,https://samokat.ru/product/tvorog-prostokvashino-5-200-g
+"Творог Село Зелёное, 5%, с сохранённой структурой зерна, 200 г",139.00,https://samokat.ru/product/tvorog-selo-zelyonoe-5-s-sokhranyonnoy-strukturoy-zerna-200-g
+"Творог Село Зелёное, 0,5%, 200 г",95.00,https://samokat.ru/product/tvorog-selo-zelyonoe-0-5-200-g
+"Творожное зерно Село Зелёное, 5%, в сливках, с грушей, 130 г",89.00,https://samokat.ru/product/tvorozhnoe-zerno-selo-zelyonoe-5-v-slivkakh-s-grushey-130-g
+"Творог Авида, 5%, 180 г",95.00,https://samokat.ru/product/tvorog-avida-5-180-g
+"Творог Марьинский, 5% ГОСТ, 180 г",85.00,https://samokat.ru/product/tvorog-marinskiy-5-gost-180-g
+"Творог Авида, 5%, 300 г",176.00,https://samokat.ru/product/tvorog-avida-5-300-g
+"Творог Богдаша, 5%, 300 г",145.00,https://samokat.ru/product/tvorog-bogdasha-5-300-g
+"Творог Лето близко, 9%, 180 г",115.00,https://samokat.ru/product/tvorog-leto-blizko-9-180-g
 "Мягкий творог Простоквашино, 5%, 170 г",69.00,https://samokat.ru/product/myagkiy-tvorog-prostokvashino-5-170-g
-"Зерно творожное Простоквашино в сливках, с клубникой, 5%, 140 г",105.00,https://samokat.ru/product/zerno-tvorozhnoe-prostokvashino-v-slivkakh-s-klubnikoy-5-140-g
-"Творожное зерно Село Зеленое, 5%, в сливках, с клубникой, 130 г",95.00,https://samokat.ru/product/tvorozhnoe-zerno-selo-zelenoe-5-v-slivkakh-s-klubnikoy-130-g
+"Зерно творожное Простоквашино в сливках, с клубникой, 5%, 140 г",85.00,https://samokat.ru/product/zerno-tvorozhnoe-prostokvashino-v-slivkakh-s-klubnikoy-5-140-g
+"Творожное зерно Село Зеленое, 5%, в сливках, с клубникой, 130 г",89.00,https://samokat.ru/product/tvorozhnoe-zerno-selo-zelenoe-5-v-slivkakh-s-klubnikoy-130-g
+"Творог Эконива, 9%, 300 г",159.00,https://samokat.ru/product/tvorog-ekoniva-9-300-g
+"Творог Эконива, 5%, 300 г",149.00,https://samokat.ru/product/tvorog-ekoniva-5-300-g
 "Творожный продукт Exponenta, обезжиренный, вишня, 250 г",179.00,https://samokat.ru/product/tvorozhnyy-produkt-exponenta-obezzhirennyy-vishnya-250-g
-"Творожный продукт Exponenta, обезжиренный, манго, 250 г",179.00,https://samokat.ru/product/tvorozhnyy-produkt-exponenta-obezzhirennyy-mango-250-g
+"Творожный продукт Exponenta, обезжиренный, топлёное молоко, 250 г",179.00,https://samokat.ru/product/tvorozhnyy-produkt-exponenta-obezzhirennyy-toplyonoe-moloko-250-g
 "Рассыпчатый творог Простоквашино, 5%, 290 г",199.00,https://samokat.ru/product/rassypchatyy-tvorog-prostokvashino-5-290-g
-"Творог Коломенское, 4%, рассыпчатый, голубика, 150 г",129.00,https://samokat.ru/product/tvorog-kolomenskoe-4-rassypchatyy-golubika-150-g
+"Творожная масса Лето близко, 8%, с ванилином, 150 г",79.00,https://samokat.ru/product/tvorozhnaya-massa-leto-blizko-8-s-vanilinom-150-g
+"Творожная масса Лето близко, 8%, с изюмом, 150 г",79.00,https://samokat.ru/product/tvorozhnaya-massa-leto-blizko-8-s-izyumom-150-g

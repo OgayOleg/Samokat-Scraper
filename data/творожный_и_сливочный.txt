@@ -1,0 +1,26 @@
+name,price,url
+"Творожный сыр Самокат, с авокадо, базиликом, тимьяном и кинзой, 130 г",169.00,https://samokat.ru/product/tvorozhnyy-syr-samokat-s-avokado-bazilikom-timyanom-i-kinzoy-130-g
+"Творожный сыр Самокат, сливочный, 130 г",139.00,https://samokat.ru/product/tvorozhnyy-syr-samokat-slivochnyy-130-g
+"Творожный сыр Almette, мягкий, сливочный, 60%, 150 г",179.00,https://samokat.ru/product/tvorozhnyy-syr-almette-myagkiy-slivochnyy-60-150-g
+"Творожный сыр Экомилк, 60%, 350 г",275.00,https://samokat.ru/product/tvorozhnyy-syr-ekomilk-60-350-g
+"Творожный сыр Hochland, сливочный, 60%, 140 г",159.00,https://samokat.ru/product/tvorozhnyy-syr-hochland-slivochnyy-60-140-g
+"Творожный сыр Hochland, с маринованными огурцами, 60%, 140 г",159.00,https://samokat.ru/product/tvorozhnyy-syr-hochland-s-marinovannymi-ogurtsami-60-140-g
+"Творожный сыр Hochland, овощи гриль, 60%, 140 г",159.00,https://samokat.ru/product/tvorozhnyy-syr-hochland-ovoshchi-gril-60-140-g
+"Творожный сыр Président, Прованс, сливочный, 65%, 120 г",149.00,https://samokat.ru/product/tvorozhnyy-syr-president-provans-slivochnyy-65-120-g
+"Творожный сыр Président, сливочный, 56%, 140 г",134.00,https://samokat.ru/product/tvorozhnyy-syr-president-slivochnyy-56-140-g
+"Творожный сыр Экомилк, 120 г",119.00,https://samokat.ru/product/tvorozhnyy-syr-ekomilk-120-g
+"Творожный сыр Almette, Лёгкий, 53%, 150 г",179.00,https://samokat.ru/product/tvorozhnyy-syr-almette-lyogkiy-53-150-g
+"Творожный сыр Almette, мягкий, с зеленью, 60%, 150 г",179.00,https://samokat.ru/product/tvorozhnyy-syr-almette-myagkiy-s-zelenyu-60-150-g
+"Творожный сыр Hochland, с зеленью, 60%, 140 г",159.00,https://samokat.ru/product/tvorozhnyy-syr-hochland-s-zelenyu-60-140-g
+"Творожный сыр Hochland Almette, с авокадо, 63%, 150 г",179.00,https://samokat.ru/product/tvorozhnyy-syr-hochland-almette-s-avokado-63-150-g
+"Творожный сыр Hochland Almette, с розмарином, 60%, 150 г",179.00,https://samokat.ru/product/tvorozhnyy-syr-hochland-almette-s-rozmarinom-60-150-g
+"Творожный сыр Bonfesto, крем-чиз, креветки и зелень, 65%, 140 г",185.00,https://samokat.ru/product/tvorozhnyy-syr-bonfesto-krem-chiz-krevetki-i-zelen-65-140-g
+"Сыр Unagrande, крем-чиз, без лактозы, сливочный, 70%, 140 г",229.00,https://samokat.ru/product/syr-unagrande-krem-chiz-bez-laktozy-slivochnyy-70-140-g
+"Творожный сыр Président, овощи на гриле, 54%, 140 г",149.00,https://samokat.ru/product/tvorozhnyy-syr-president-ovoshchi-na-grile-54-140-g
+"Творожный сыр Бежин луг, чеснок, укроп и петрушка, 66%, 150 г",169.00,https://samokat.ru/product/tvorozhnyy-syr-bezhin-lug-chesnok-ukrop-i-petrushka-66-150-g
+"Творожный сыр Бежин луг, сливочный, 70%, 150 г",169.00,https://samokat.ru/product/tvorozhnyy-syr-bezhin-lug-slivochnyy-70-150-g
+"Творожный сыр Bonfesto, крем-чиз, грибы, 65%, 140 г",174.00,https://samokat.ru/product/tvorozhnyy-syr-bonfesto-krem-chiz-griby-65-140-g
+"Творожный сыр Bonfesto, крем-чиз, зелень, 65%, 140 г",185.00,https://samokat.ru/product/tvorozhnyy-syr-bonfesto-krem-chiz-zelen-65-140-g
+"Творожный сыр Pretto, 65%, 140 г",189.00,https://samokat.ru/product/tvorozhnyy-syr-pretto-65-140-g
+"Творожный сыр Лето близко, сливочный, 140 г",139.00,https://samokat.ru/product/tvorozhnyy-syr-leto-blizko-slivochnyy-140-g
+"Творожный сыр Bonfesto Cream Cheese, воздушный, лосось, 125 г",149.00,https://samokat.ru/product/tvorozhnyy-syr-bonfesto-cream-cheese-vozdushnyy-losos-125-g

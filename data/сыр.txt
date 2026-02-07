@@ -1,0 +1,16 @@
+name,price,url
+"Сыр Белебеевский, Монбри, мягкий, с белой плесенью, с пажитником, халяль, 125 г",320.00,https://samokat.ru/product/syr-belebeevskiy-monbri-myagkiy-s-beloy-plesenyu-s-pazhitnikom-khalyal-125-g
+"Моцарелла Unagrande, без лактозы, протеиновая, мягкая, палочки, 35%, 120 г",219.00,https://samokat.ru/product/motsarella-unagrande-bez-laktozy-proteinovaya-myagkaya-palochki-35-120-g
+"Маасдам Карлов двор, полутвёрдый, 180 г",260.00,https://samokat.ru/product/maasdam-karlov-dvor-polutvyordyy-180-g
+"Протеиновый сыр Сырная долина, полутвёрдый, с L-карнитином, 200 г",259.00,https://samokat.ru/product/proteinovyy-syr-syrnaya-dolina-polutvyordyy-s-l-karnitinom-200-g
+"Сыр Сырная долина, Монсеррат, полутвёрдый, с грецким орехом, 200 г",219.00,https://samokat.ru/product/syr-syrnaya-dolina-monserrat-polutvyordyy-s-gretskim-orekhom-200-g
+"Пармезан Natura Selection Extra, 150 г",384.00,https://samokat.ru/product/parmezan-natura-selection-extra-150-g
+"Полутвёрдый сыр Ламбер, Лёгкий, кусковой, 180 г",335.00,https://samokat.ru/product/polutvyordyy-syr-lamber-lyogkiy-kuskovoy-180-g
+"Пармезан Самокат, твёрдый, хлопья, 100 г",229.00,https://samokat.ru/product/parmezan-samokat-tvyordyy-khlopya-100-g
+"Сыр Exponenta, Fitness Cheese, твёрдый, без лактозы, с паприкой и морковью, 35%, 180 г",319.00,https://samokat.ru/product/syr-exponenta-fitness-cheese-tvyordyy-bez-laktozy-s-paprikoy-i-morkovyu-35-180-g
+"Пармезан Schönfeld, твёрдый, тёртый, 40%, 80 г",239.00,https://samokat.ru/product/parmezan-schonfeld-tvyordyy-tyortyy-40-80-g
+"Сыр Радость вкуса, Большой куш, твёрдый, 20%, 180 г",225.00,https://samokat.ru/product/syr-radost-vkusa-bolshoy-kush-tvyordyy-20-180-g
+"Пармезан Endorf, твёрдый, 43%, 200 г",569.00,https://samokat.ru/product/parmezan-endorf-tvyordyy-43-200-g
+"Пармезан Belster, 195 г",319.00,https://samokat.ru/product/parmezan-belster-195-g
+"Гауда Cheese House, 20%, 180 г",189.00,https://samokat.ru/product/gauda-cheese-house-20-180-g
+"Сыр Франциск Самокат, твёрдый, 180 г",279.00,https://samokat.ru/product/syr-frantsisk-samokat-tvyordyy-180-g

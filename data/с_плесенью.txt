@@ -1,0 +1,12 @@
+name,price,url
+"Сыр Белебеевский, Монбри, мягкий, с белой плесенью, с пажитником, халяль, 125 г",320.00,https://samokat.ru/product/syr-belebeevskiy-monbri-myagkiy-s-beloy-plesenyu-s-pazhitnikom-khalyal-125-g
+"Сыр Самокат, мягкий, с голубой плесенью, 100 г",249.00,https://samokat.ru/product/syr-samokat-myagkiy-s-goluboy-plesenyu-100-g
+"Сыр бри Самокат, мягкий, с белой плесенью, 125 г",279.00,https://samokat.ru/product/syr-bri-samokat-myagkiy-s-beloy-plesenyu-125-g
+"Камамбер Самокат, мягкий, с белой плесенью, без лактозы, 125 г",259.00,https://samokat.ru/product/kamamber-samokat-myagkiy-s-beloy-plesenyu-bez-laktozy-125-g
+"Сыр Supreme, мягкий, с белой плесенью, 125 г",305.00,https://samokat.ru/product/syr-supreme-myagkiy-s-beloy-plesenyu-125-g
+"Камамбер Président, мягкий, с белой плесенью, 45%, 125 г",335.00,https://samokat.ru/product/kamamber-president-myagkiy-s-beloy-plesenyu-45-125-g
+"Камамбер Егорлык молоко, мягкий, с белой плесенью, 50%, 125 г",255.00,https://samokat.ru/product/kamamber-egorlyk-moloko-myagkiy-s-beloy-plesenyu-50-125-g
+"Камамбер Егорлык молоко, мягкий, с белой плесенью, с грецким орехом, 50%, 125 г",269.00,https://samokat.ru/product/kamamber-egorlyk-moloko-myagkiy-s-beloy-plesenyu-s-gretskim-orekhom-50-125-g
+"Сыр бри White Cheese From Zhukovka, мягкий, с белой плесенью, 125 г",279.00,https://samokat.ru/product/syr-bri-white-cheese-from-zhukovka-myagkiy-s-beloy-plesenyu-125-g
+"Камамбер White Cheese From Zhukovka, мягкий, с белой плесенью, 125 г",279.00,https://samokat.ru/product/kamamber-white-cheese-from-zhukovka-myagkiy-s-beloy-plesenyu-125-g
+"Сыр Камбоцола White Cheese From Zhukovka, мягкая, с голубой плесенью, 125 г",197.00,https://samokat.ru/product/syr-kambotsola-white-cheese-from-zhukovka-myagkaya-s-goluboy-plesenyu-125-g

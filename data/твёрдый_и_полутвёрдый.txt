@@ -1,0 +1,60 @@
+name,price,url
+"Голландский сыр Самокат, 200 г",199.00,https://samokat.ru/product/gollandskiy-syr-samokat-200-g
+"Гауда Самокат, 200 г",239.00,https://samokat.ru/product/gauda-samokat-200-g
+"Сыр палермо Самокат, твёрдый, 180 г",339.00,https://samokat.ru/product/syr-palermo-samokat-tvyordyy-180-g
+"Маасдам Самокат, полутвёрдый, нарезка, 150 г",229.00,https://samokat.ru/product/maasdam-samokat-polutvyordyy-narezka-150-g
+"Маасдам Самокат, полутвёрдый, 200 г",269.00,https://samokat.ru/product/maasdam-samokat-polutvyordyy-200-g
+"Тильзитер Самокат, 200 г",249.00,https://samokat.ru/product/tilziter-samokat-200-g
+"Российский сыр Самокат, 200 г",249.00,https://samokat.ru/product/rossiyskiy-syr-samokat-200-g
+"Пармезан Самокат, твёрдый, хлопья, 100 г",229.00,https://samokat.ru/product/parmezan-samokat-tvyordyy-khlopya-100-g
+"Сыр качотта Самокат, полутвёрдый, с чёрным трюфелем, 140 г",259.00,https://samokat.ru/product/syr-kachotta-samokat-polutvyordyy-s-chyornym-tryufelem-140-g
+"Сыр Франциск Самокат, твёрдый, 180 г",279.00,https://samokat.ru/product/syr-frantsisk-samokat-tvyordyy-180-g
+"Голландский сыр Самокат, Классик, нарезка, 150 г",185.00,https://samokat.ru/product/gollandskiy-syr-samokat-klassik-narezka-150-g
+"Сыр Ламбер, полутвёрдый, 50%, 230 г",319.00,https://samokat.ru/product/syr-lamber-polutvyordyy-50-230-g
+"Тильзитер Ламбер, 50%, нарезка, 150 г",335.00,https://samokat.ru/product/tilziter-lamber-50-narezka-150-g
+"Полутвёрдый сыр Ламбер, Лёгкий, кусковой, 180 г",335.00,https://samokat.ru/product/polutvyordyy-syr-lamber-lyogkiy-kuskovoy-180-g
+"Сыр Радость вкуса, Лёгкий, твёрдый, 180 г",239.00,https://samokat.ru/product/syr-radost-vkusa-lyogkiy-tvyordyy-180-g
+"Сыр Радость вкуса, Топлёночка, полутвёрдый, лёгкий, 180 г",239.00,https://samokat.ru/product/syr-radost-vkusa-toplyonochka-polutvyordyy-lyogkiy-180-g
+"Сыр Excelsior, Sardo, твёрдый, 45%, 180 г",259.00,https://samokat.ru/product/syr-excelsior-sardo-tvyordyy-45-180-g
+"Пармезан Natura Selection Extra, 150 г",384.00,https://samokat.ru/product/parmezan-natura-selection-extra-150-g
+"Сыр Радость вкуса, Большой куш, твёрдый, 20%, 180 г",225.00,https://samokat.ru/product/syr-radost-vkusa-bolshoy-kush-tvyordyy-20-180-g
+"Пармезан Natura Selection, Classical, твёрдый, 45%, 150 г",365.00,https://samokat.ru/product/parmezan-natura-selection-classical-tvyordyy-45-150-g
+"Маасдам Schönfeld, твёрдый, нарезка, 45%, 125 г",259.00,https://samokat.ru/product/maasdam-schonfeld-tvyordyy-narezka-45-125-g
+"Сыр Белебеевский, полутвёрдый, халяль, 190 г",239.00,https://samokat.ru/product/syr-belebeevskiy-polutvyordyy-khalyal-190-g
+"Российский сыр Белебеевский, полутвёрдый, халяль, 190 г",329.00,https://samokat.ru/product/rossiyskiy-syr-belebeevskiy-polutvyordyy-khalyal-190-g
+"Сыр Natura, полутвёрдый, сливочный, нарезка, 45%, 150 г",269.00,https://samokat.ru/product/syr-natura-polutvyordyy-slivochnyy-narezka-45-150-g
+"Российский сыр Село Зелёное, полутвёрдый, 50%, 200 г",345.00,https://samokat.ru/product/rossiyskiy-syr-selo-zelyonoe-polutvyordyy-50-200-g
+"Сыр Радость вкуса, Сливочный, твёрдый, 180 г",245.00,https://samokat.ru/product/syr-radost-vkusa-slivochnyy-tvyordyy-180-g
+"Сыр Cheese House, твёрдый, 20%, 150 г",155.00,https://samokat.ru/product/syr-cheese-house-tvyordyy-20-150-g
+"Сыр Радость вкуса, Топлёночка, твёрдый, 180 г",245.00,https://samokat.ru/product/syr-radost-vkusa-toplyonochka-tvyordyy-180-g
+"Сыр Exponenta, Fitness Cheese, твёрдый, без лактозы, с паприкой и морковью, 35%, 180 г",319.00,https://samokat.ru/product/syr-exponenta-fitness-cheese-tvyordyy-bez-laktozy-s-paprikoy-i-morkovyu-35-180-g
+"Сыр Село Зелёное, сливочный, 50%, 200 г",275.00,https://samokat.ru/product/syr-selo-zelyonoe-slivochnyy-50-200-g
+"Сыр Hochland Grunlander, полутвёрдый, нарезка, 50%, 130 г",245.00,https://samokat.ru/product/syr-hochland-grunlander-polutvyordyy-narezka-50-130-g
+"Сыр Белебеевский, полутвёрдый, нарезка, халяль, 120 г",229.00,https://samokat.ru/product/syr-belebeevskiy-polutvyordyy-narezka-khalyal-120-g
+"Пармезан Belster, 195 г",319.00,https://samokat.ru/product/parmezan-belster-195-g
+"Тильзитер Сырная долина, полутвёрдый, безлактозный, 200 г",249.00,https://samokat.ru/product/tilziter-syrnaya-dolina-polutvyordyy-bezlaktoznyy-200-g
+"Пармезан Карлов двор, твёрдый, выдержанный, 40%, 150 г",339.00,https://samokat.ru/product/parmezan-karlov-dvor-tvyordyy-vyderzhannyy-40-150-g
+"Гауда Село Зелёное, Премиум, твёрдая, 40%, 200 г",285.00,https://samokat.ru/product/gauda-selo-zelyonoe-premium-tvyordaya-40-200-g
+"Эдам Село Зелёное, полутвёрдый, 45%, 200 г",289.00,https://samokat.ru/product/edam-selo-zelyonoe-polutvyordyy-45-200-g
+"Сыр Село Зелёное, Медовый, полутвёрдый, 50%, 200 г",279.00,https://samokat.ru/product/syr-selo-zelyonoe-medovyy-polutvyordyy-50-200-g
+"Сыр Сырная долина, Король Эдуард, твёрдый, со вкусом топлёного молока, 50%, 200 г",269.00,https://samokat.ru/product/syr-syrnaya-dolina-korol-eduard-tvyordyy-so-vkusom-toplyonogo-moloka-50-200-g
+"Российский сыр Сырная долина, твёрдый, 50%, 200 г",179.00,https://samokat.ru/product/rossiyskiy-syr-syrnaya-dolina-tvyordyy-50-200-g
+"Голландский сыр Сырная долина, твёрдый, 45%, 200 г",259.00,https://samokat.ru/product/gollandskiy-syr-syrnaya-dolina-tvyordyy-45-200-g
+"Сметанковый сыр Сырная долина, твёрдый, 50%, 200 г",269.00,https://samokat.ru/product/smetankovyy-syr-syrnaya-dolina-tvyordyy-50-200-g
+"Сыр Эконива, Колыбельский, полутвёрдый, 45%, 200 г",279.00,https://samokat.ru/product/syr-ekoniva-kolybelskiy-polutvyordyy-45-200-g-1
+"Сыр Эконива, Шольбрунн, полутвёрдый, 50%, 200 г",167.00,https://samokat.ru/product/syr-ekoniva-sholbrunn-polutvyordyy-50-200-g
+"Гауда Cheese House, 20%, 180 г",189.00,https://samokat.ru/product/gauda-cheese-house-20-180-g
+"Пармезан Cheese House, полутвёрдый, молодой, 40%, 180 г",147.00,https://samokat.ru/product/parmezan-cheese-house-polutvyordyy-molodoy-40-180-g
+"Эдам Cheese House, полутвёрдый, 20%, 180 г",179.00,https://samokat.ru/product/edam-cheese-house-polutvyordyy-20-180-g
+"Пармезан Endorf, твёрдый, 43%, 200 г",569.00,https://samokat.ru/product/parmezan-endorf-tvyordyy-43-200-g
+"Чеддер Hochland Grunlander, полутвёрдый, нарезка, 50%, 130 г",325.00,https://samokat.ru/product/chedder-hochland-grunlander-polutvyordyy-narezka-50-130-g
+"Сыр Laplandia, Сливочный, полутвёрдый, 45%, 180 г",389.00,https://samokat.ru/product/syr-laplandia-slivochnyy-polutvyordyy-45-180-g
+"Пармезан Schönfeld, твёрдый, тёртый, 40%, 80 г",239.00,https://samokat.ru/product/parmezan-schonfeld-tvyordyy-tyortyy-40-80-g
+"Сыр грюнландер Hochland, Баварский, полутвёрдый, 45%, 180 г",305.00,https://samokat.ru/product/syr-gryunlander-hochland-bavarskiy-polutvyordyy-45-180-g
+"Протеиновый сыр Сырная долина, полутвёрдый, с L-карнитином, 200 г",259.00,https://samokat.ru/product/proteinovyy-syr-syrnaya-dolina-polutvyordyy-s-l-karnitinom-200-g
+"Сыр Белебеевский, Башкирский медовый, полутвёрдый, халяль, 190 г",259.00,https://samokat.ru/product/syr-belebeevskiy-bashkirskiy-medovyy-polutvyordyy-khalyal-190-g
+"Сыр Белебеевский, Благородный дуэт, полутвёрдый, халяль, 190 г",164.00,https://samokat.ru/product/syr-belebeevskiy-blagorodnyy-duet-polutvyordyy-khalyal-190-g
+"Голландский сыр Белебеевский, полутвёрдый, халяль, 190 г",259.00,https://samokat.ru/product/gollandskiy-syr-belebeevskiy-polutvyordyy-khalyal-190-g
+"Сливочный сыр Вкуснотеево, 300 г",439.00,https://samokat.ru/product/slivochnyy-syr-vkusnoteevo-300-g
+"Сыр Сырная долина, Монсеррат, полутвёрдый, с грецким орехом, 200 г",219.00,https://samokat.ru/product/syr-syrnaya-dolina-monserrat-polutvyordyy-s-gretskim-orekhom-200-g
+"Маасдам Карлов двор, полутвёрдый, 180 г",260.00,https://samokat.ru/product/maasdam-karlov-dvor-polutvyordyy-180-g

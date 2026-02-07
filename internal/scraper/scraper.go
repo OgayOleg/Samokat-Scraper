@@ -68,7 +68,7 @@ func Run(cfg Config) error {
 
 	page.MustNavigate(cfg.CategoryURL)
 	page.MustWaitLoad()
-	time.Sleep(2 * time.Second)
+	time.Sleep(4 * time.Second)
 
 	res := page.MustEval(`() => {
         return fetch("` + cfg.APIURL + `", {

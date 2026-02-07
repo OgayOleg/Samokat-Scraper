@@ -1,0 +1,4 @@
+name,price,url
+"Молоко Parmalat Protein, 1,8%, безлактозное, ультрапастеризованное, 500 мл",159.00,https://samokat.ru/product/moloko-parmalat-protein-1-8-bezlaktoznoe-ultrapasterizovannoe-500-ml
+"Молочный коктейль Neo High Protein, карамель и латте, 260 г",149.00,https://samokat.ru/product/molochnyy-kokteyl-neo-high-protein-karamel-i-latte-260-g
+"Молочный коктейль Neo High Protein, шоколад, 260 г",169.00,https://samokat.ru/product/molochnyy-kokteyl-neo-high-protein-shokolad-260-g

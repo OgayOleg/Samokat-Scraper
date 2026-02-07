@@ -1,0 +1,12 @@
+name,price,url
+"Маасдам Самокат, полутвёрдый, нарезка, 150 г",229.00,https://samokat.ru/product/maasdam-samokat-polutvyordyy-narezka-150-g
+"Голландский сыр Самокат, Классик, нарезка, 150 г",185.00,https://samokat.ru/product/gollandskiy-syr-samokat-klassik-narezka-150-g
+"Пармезан Самокат, твёрдый, хлопья, 100 г",229.00,https://samokat.ru/product/parmezan-samokat-tvyordyy-khlopya-100-g
+"Моцарелла Самокат, тёртая, 150 г",169.00,https://samokat.ru/product/motsarella-samokat-tyortaya-150-g
+"Сыр Белебеевский, полутвёрдый, нарезка, халяль, 120 г",229.00,https://samokat.ru/product/syr-belebeevskiy-polutvyordyy-narezka-khalyal-120-g
+"Чеддер Hochland Grunlander, полутвёрдый, нарезка, 50%, 130 г",325.00,https://samokat.ru/product/chedder-hochland-grunlander-polutvyordyy-narezka-50-130-g
+"Тильзитер Ламбер, 50%, нарезка, 150 г",335.00,https://samokat.ru/product/tilziter-lamber-50-narezka-150-g
+"Маасдам Schönfeld, твёрдый, нарезка, 45%, 125 г",259.00,https://samokat.ru/product/maasdam-schonfeld-tvyordyy-narezka-45-125-g
+"Сыр Natura, полутвёрдый, сливочный, нарезка, 45%, 150 г",269.00,https://samokat.ru/product/syr-natura-polutvyordyy-slivochnyy-narezka-45-150-g
+"Сыр Hochland Grunlander, полутвёрдый, нарезка, 50%, 130 г",245.00,https://samokat.ru/product/syr-hochland-grunlander-polutvyordyy-narezka-50-130-g
+"Пармезан Schönfeld, твёрдый, тёртый, 40%, 80 г",239.00,https://samokat.ru/product/parmezan-schonfeld-tvyordyy-tyortyy-40-80-g

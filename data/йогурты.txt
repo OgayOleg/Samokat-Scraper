@@ -1,0 +1,9 @@
+name,price,url
+"Греческий йогурт Viola, 4%, без лактозы, без сахара, 140 г",95.00,https://samokat.ru/product/grecheskiy-yogurt-viola-4-bez-laktozy-bez-sakhara-140-g
+"Питьевой йогурт Актибио, 1,5%, без лактозы, с голубикой и ежевикой, 260 г",79.00,https://samokat.ru/product/pitevoy-yogurt-aktibio-1-5-bez-laktozy-s-golubikoy-i-ezhevikoy-260-g
+"Мягкий творог Самокат, 3,8%, без лактозы, двухслойный, черника и голубика, 125 г",69.00,https://samokat.ru/product/myagkiy-tvorog-samokat-3-8-bez-laktozy-dvukhsloynyy-chernika-i-golubika-125-g
+"Мягкий творог Самокат, 3,8%, без лактозы, двухслойный, клубника и земляника, 125 г",69.00,https://samokat.ru/product/myagkiy-tvorog-samokat-3-8-bez-laktozy-dvukhsloynyy-klubnika-i-zemlyanika-125-g
+"Йогурт АктиБио, 3%, без сахара, с персиком и малиной, 130 г",69.00,https://samokat.ru/product/yogurt-aktibio-3-bez-sakhara-s-persikom-i-malinoy-130-g
+"Питьевой йогурт АктиБио, 1,5%, безлактозный, без сахара, с клубникой и черникой, 260 г",79.00,https://samokat.ru/product/pitevoy-yogurt-aktibio-1-5-bezlaktoznyy-bez-sakhara-s-klubnikoy-i-chernikoy-260-g
+"Питьевой йогурт АктиБио, 1,5%, безлактозный, без сахара, с персиком и малиной, 260 г",79.00,https://samokat.ru/product/pitevoy-yogurt-aktibio-1-5-bezlaktoznyy-bez-sakhara-s-persikom-i-malinoy-260-g
+"Йогурт АктиБио, 3%, без сахара, с манго и папайей, 130 г",69.00,https://samokat.ru/product/yogurt-aktibio-3-bez-sakhara-s-mango-i-papayey-130-g

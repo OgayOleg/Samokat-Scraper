@@ -1,29 +1,19 @@
 name,price,url
-"Овсяный напиток Самокат, ультрапастеризованный, 1 л",129.00,https://samokat.ru/product/ovsyanyy-napitok-samokat-ultrapasterizovannyy-1-l
-"Кокосовый напиток Самокат, 1 л",169.00,https://samokat.ru/product/kokosovyy-napitok-samokat-1-l
+"Миндальный напиток Самокат, ультрапастеризованный, 1 л",159.00,https://samokat.ru/product/mindalnyy-napitok-samokat-ultrapasterizovannyy-1-l
 "Фундуковый напиток Nemoloko, на соевой основе, с витаминами и минеральными веществами, 1 л",189.00,https://samokat.ru/product/fundukovyy-napitok-nemoloko-na-soevoy-osnove-s-vitaminami-i-mineralnymi-veshchestvami-1-l
-"Соевый растительный напиток Milx, 3,2%, кокосовый, 500 мл",179.00,https://samokat.ru/product/soevyy-rastitelnyy-napitok-milx-3-2-kokosovyy-500-ml
-"Кокосовый напиток Kara Classic, 17%, 200 мл",175.00,https://samokat.ru/product/kokosovyy-napitok-kara-classic-17-200-ml
-"Миндальный напиток Самокат, особый, 1 л",179.00,https://samokat.ru/product/mindalnyy-napitok-samokat-osobyy-1-l
-"Бутылка Сердце, голубая, 450 мл",299.00,https://samokat.ru/product/butylka-serdtse-golubaya-450-ml
-"Миндальный напиток Самокат, 1 л",169.00,https://samokat.ru/product/mindalnyy-napitok-samokat-1-l
-"Банановый напиток Самокат, 1 л",169.00,https://samokat.ru/product/bananovyy-napitok-samokat-1-l
-"Банановый напиток Hi, 3,2%, ультрапастеризованный, 1 л",165.00,https://samokat.ru/product/bananovyy-napitok-hi-3-2-ultrapasterizovannyy-1-l
-"Соево-кокосовый напиток Planto Barista, Классический, 2,3%, 1 л",259.00,https://samokat.ru/product/soevo-kokosovyy-napitok-planto-barista-klassicheskiy-2-3-1-l
+"Соевый растительный напиток Milx, 3,2%, кокосовый, 500 мл",165.00,https://samokat.ru/product/soevyy-rastitelnyy-napitok-milx-3-2-kokosovyy-500-ml
+"Кокосовое молоко Import Drinks, Milk Jambo, 0,33 л",199.00,https://samokat.ru/product/kokosovoe-moloko-import-drinks-milk-jambo-0-33-l
 "Кокосовый напиток Planto Barista, с соей, 1,3%, 1 л",259.00,https://samokat.ru/product/kokosovyy-napitok-planto-barista-s-soey-1-3-1-l
-"Соевый растительный напиток Milx, 2,5%, кешью, 1 л",255.00,https://samokat.ru/product/soevyy-rastitelnyy-napitok-milx-2-5-keshyu-1-l
-"Бутылка RemecoClub, 850 мл, 12x10x20 см",260.00,https://samokat.ru/product/butylka-remecoclub-850-ml-12x10x20-sm
 "Соевый растительный напиток Milx, 1,1%, банановый, 500 мл",155.00,https://samokat.ru/product/soevyy-rastitelnyy-napitok-milx-1-1-bananovyy-500-ml
-"Соево-банановый напиток Planto, 0,7%, 1 л",259.00,https://samokat.ru/product/soevo-bananovyy-napitok-planto-0-7-1-l
-"Соевый напиток Planto, с миндалём, карамель, 1 л",239.00,https://samokat.ru/product/soevyy-napitok-planto-s-mindalyom-karamel-1-l
+"Миндальный напиток Planto, 1,2%, 1 л",239.00,https://samokat.ru/product/mindalnyy-napitok-planto-1-2-1-l
 "Миндальный напиток Planto, без сахара, 1,2%, 1 л",239.00,https://samokat.ru/product/mindalnyy-napitok-planto-bez-sakhara-1-2-1-l
-"Соевый напиток Planto, 0,7%, со вкусом ванильного пломбира, 1 л",259.00,https://samokat.ru/product/soevyy-napitok-planto-0-7-so-vkusom-vanilnogo-plombira-1-l
 "Растительный напиток Nemoloko, на соевой основе, клубничный, 1 л",170.00,https://samokat.ru/product/rastitelnyy-napitok-nemoloko-na-soevoy-osnove-klubnichnyy-1-l
 "Овсяный напиток Nemoloko, 3,2%, 1 л",139.00,https://samokat.ru/product/ovsyanyy-napitok-nemoloko-3-2-1-l
 "Растительный напиток Hi, 1,8%, с миндалём, 1 л",119.00,https://samokat.ru/product/rastitelnyy-napitok-hi-1-8-s-mindalyom-1-l
-"Овсяный десерт Velle Yogurt, клубника и банан, 130 г",79.00,https://samokat.ru/product/ovsyanyy-desert-velle-yogurt-klubnika-i-banan-130-g
-"Рисовый продукт Velle, Вместо сливок, 10%, 1 л",199.00,https://samokat.ru/product/risovyy-produkt-velle-vmesto-slivok-10-1-l
-"Кокосовый десерт Velle, Клубничный чизкейк, 130 г",85.00,https://samokat.ru/product/kokosovyy-desert-velle-klubnichnyy-chizkeyk-130-g
-"Соево-ореховый напиток Milx, 2%, без лактозы, дубайский шоколад, 1 л",219.00,https://samokat.ru/product/soevo-orekhovyy-napitok-milx-2-bez-laktozy-dubayskiy-shokolad-1-l
-"Овсяный напиток Село Зелёное, 1,8%, ультрапастеризованный, 1 л",97.00,https://samokat.ru/product/ovsyanyy-napitok-selo-zelyonoe-1-8-ultrapasterizovannyy-1-l
-"Миндальный напиток Село Зелёное, 1,8%, ультрапастеризованный, 1 л",169.00,https://samokat.ru/product/mindalnyy-napitok-selo-zelyonoe-1-8-ultrapasterizovannyy-1-l
+"Растительный напиток Hi, 1,8%, с фундуком, 1 л",119.00,https://samokat.ru/product/rastitelnyy-napitok-hi-1-8-s-fundukom-1-l
+"Растительный напиток Nemoloko Professional, соевый, с бананом, 1 л",159.00,https://samokat.ru/product/rastitelnyy-napitok-nemoloko-professional-soevyy-s-bananom-1-l
+"Напиток растительный Nemoloko овсяный, ванильный, 1 л",149.00,https://samokat.ru/product/napitok-rastitelnyy-nemoloko-ovsyanyy-vanilnyy-1-l
+"Напиток овсяный Nemoloko шоколадный, 1 л",145.00,https://samokat.ru/product/napitok-ovsyanyy-nemoloko-shokoladnyy-1-l
+"Соево-ореховый напиток Milx, 2%, без лактозы, дубайский шоколад, 1 л",245.00,https://samokat.ru/product/soevo-orekhovyy-napitok-milx-2-bez-laktozy-dubayskiy-shokolad-1-l
+"Овсяный напиток Село Зелёное, 1,8%, ультрапастеризованный, 1 л",149.00,https://samokat.ru/product/ovsyanyy-napitok-selo-zelyonoe-1-8-ultrapasterizovannyy-1-l
+"Миндальный напиток Село Зелёное, 1,8%, ультрапастеризованный, 1 л",189.00,https://samokat.ru/product/mindalnyy-napitok-selo-zelyonoe-1-8-ultrapasterizovannyy-1-l

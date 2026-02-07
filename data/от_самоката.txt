@@ -1,0 +1,28 @@
+name,price,url
+"Творожный сыр Самокат, сливочный, 130 г",139.00,https://samokat.ru/product/tvorozhnyy-syr-samokat-slivochnyy-130-g
+"Голландский сыр Самокат, 200 г",199.00,https://samokat.ru/product/gollandskiy-syr-samokat-200-g
+"Творожный сыр Самокат, с авокадо, базиликом, тимьяном и кинзой, 130 г",169.00,https://samokat.ru/product/tvorozhnyy-syr-samokat-s-avokado-bazilikom-timyanom-i-kinzoy-130-g
+"Мини-моцарелла Самокат, мягкая, 125 г",149.00,https://samokat.ru/product/mini-motsarella-samokat-myagkaya-125-g
+"Гауда Самокат, 200 г",239.00,https://samokat.ru/product/gauda-samokat-200-g
+"Сыр Самокат, мягкий, с голубой плесенью, 100 г",249.00,https://samokat.ru/product/syr-samokat-myagkiy-s-goluboy-plesenyu-100-g
+"Сыр палермо Самокат, твёрдый, 180 г",339.00,https://samokat.ru/product/syr-palermo-samokat-tvyordyy-180-g
+"Сыр сулугуни Самокат, 280 г",339.00,https://samokat.ru/product/syr-suluguni-samokat-280-g
+"Сыр Самокат, копчёный, коса, 100 г",199.00,https://samokat.ru/product/syr-samokat-kopchyonyy-kosa-100-g
+"Сыр бри Самокат, мягкий, с белой плесенью, 125 г",279.00,https://samokat.ru/product/syr-bri-samokat-myagkiy-s-beloy-plesenyu-125-g
+"Маасдам Самокат, полутвёрдый, нарезка, 150 г",229.00,https://samokat.ru/product/maasdam-samokat-polutvyordyy-narezka-150-g
+"Маасдам Самокат, полутвёрдый, 200 г",269.00,https://samokat.ru/product/maasdam-samokat-polutvyordyy-200-g
+"Тильзитер Самокат, 200 г",249.00,https://samokat.ru/product/tilziter-samokat-200-g
+"Рикотта Самокат, мягкая, 250 г",149.00,https://samokat.ru/product/rikotta-samokat-myagkaya-250-g
+"Российский сыр Самокат, 200 г",249.00,https://samokat.ru/product/rossiyskiy-syr-samokat-200-g
+"Пармезан Самокат, твёрдый, хлопья, 100 г",229.00,https://samokat.ru/product/parmezan-samokat-tvyordyy-khlopya-100-g
+"Мини-моцарелла Самокат, мягкая, 120 г",149.00,https://samokat.ru/product/mini-motsarella-samokat-myagkaya-120-g
+"Моцарелла Самокат, мягкая, 130 г",149.00,https://samokat.ru/product/motsarella-samokat-myagkaya-130-g
+"Плавленый сыр Самокат, чеддер, для пасты и пиццы, тёртый, 150 г",169.00,https://samokat.ru/product/plavlenyy-syr-samokat-chedder-dlya-pasty-i-pitstsy-tyortyy-150-g
+"Сыр качотта Самокат, полутвёрдый, с чёрным трюфелем, 140 г",259.00,https://samokat.ru/product/syr-kachotta-samokat-polutvyordyy-s-chyornym-tryufelem-140-g
+"Камамбер Самокат, мягкий, с белой плесенью, без лактозы, 125 г",259.00,https://samokat.ru/product/kamamber-samokat-myagkiy-s-beloy-plesenyu-bez-laktozy-125-g
+"Фета Самокат, 250 г",219.00,https://samokat.ru/product/feta-samokat-250-g
+"Мини-ассорти мягких сыров Самокат, копчёные, косичка, 100 г",269.00,https://samokat.ru/product/mini-assorti-myagkikh-syrov-samokat-kopchyonye-kosichka-100-g
+"Сыр Франциск Самокат, твёрдый, 180 г",279.00,https://samokat.ru/product/syr-frantsisk-samokat-tvyordyy-180-g
+"Голландский сыр Самокат, Классик, нарезка, 150 г",185.00,https://samokat.ru/product/gollandskiy-syr-samokat-klassik-narezka-150-g
+"Плавленый сыр Самокат, с сыром Эмменталь, тёртый, 45%, 150 г",159.00,https://samokat.ru/product/plavlenyy-syr-samokat-s-syrom-emmental-tyortyy-45-150-g
+"Моцарелла Самокат, тёртая, 150 г",169.00,https://samokat.ru/product/motsarella-samokat-tyortaya-150-g

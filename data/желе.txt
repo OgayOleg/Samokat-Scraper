@@ -1,0 +1,4 @@
+name,price,url
+"Желе Самокат, кола, 125 г",46.00,https://samokat.ru/product/zhele-samokat-kola-125-g
+"Желе Ростагроэкспорт, яблоко, 125 г",46.00,https://samokat.ru/product/zhele-rostagroeksport-yabloko-125-g
+"Желе Ростагроэкспорт, без сахара, вишня, 125 г",45.00,https://samokat.ru/product/zhele-rostagroeksport-bez-sakhara-vishnya-125-g

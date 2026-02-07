@@ -1,0 +1,11 @@
+name,price,url
+"Моцарелла Galbani, мягкая, 45%, 125 г",205.00,https://samokat.ru/product/motsarella-galbani-myagkaya-45-125-g
+"Творожный сыр Président, Прованс, сливочный, 65%, 120 г",149.00,https://samokat.ru/product/tvorozhnyy-syr-president-provans-slivochnyy-65-120-g
+"Творожный сыр Président, овощи на гриле, 54%, 140 г",149.00,https://samokat.ru/product/tvorozhnyy-syr-president-ovoshchi-na-grile-54-140-g
+"Камамбер Président, мягкий, с белой плесенью, 45%, 125 г",335.00,https://samokat.ru/product/kamamber-president-myagkiy-s-beloy-plesenyu-45-125-g
+"Брынза Président, мягкая, 0,45, 250 г",269.00,https://samokat.ru/product/brynza-president-myagkaya-0-45-250-g
+"Плавленый сыр Président, сливочный, 45%, 400 г",479.00,https://samokat.ru/product/plavlenyy-syr-president-slivochnyy-45-400-g
+"Плавленый сыр Président, сливочный, 45%, 140 г",219.00,https://samokat.ru/product/plavlenyy-syr-president-slivochnyy-45-140-g
+"Плавленый сыр President My Cheese, со вкусом васаби, 125 г",239.00,https://samokat.ru/product/plavlenyy-syr-president-my-cheese-so-vkusom-vasabi-125-g
+"Плавленый сыр President My Cheese, чеддер, 125 г",239.00,https://samokat.ru/product/plavlenyy-syr-president-my-cheese-chedder-125-g
+"Плавленый сыр President My Cheese, паприка, 125 г",239.00,https://samokat.ru/product/plavlenyy-syr-president-my-cheese-paprika-125-g

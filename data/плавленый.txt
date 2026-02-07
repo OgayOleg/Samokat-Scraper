@@ -1,0 +1,24 @@
+name,price,url
+"Плавленый сыр Самокат, с сыром Эмменталь, тёртый, 45%, 150 г",159.00,https://samokat.ru/product/plavlenyy-syr-samokat-s-syrom-emmental-tyortyy-45-150-g
+"Плавленый сыр Самокат, чеддер, для пасты и пиццы, тёртый, 150 г",169.00,https://samokat.ru/product/plavlenyy-syr-samokat-chedder-dlya-pasty-i-pitstsy-tyortyy-150-g
+"Плавленый сыр Авида, с ветчиной, 140 г",139.00,https://samokat.ru/product/plavlenyy-syr-avida-s-vetchinoy-140-g
+"Плавленый сыр Hochland, Синее ассорти, 50%, 140 г",195.00,https://samokat.ru/product/plavlenyy-syr-hochland-sinee-assorti-50-140-g
+"Плавленый сыр President My Cheese, со вкусом васаби, 125 г",239.00,https://samokat.ru/product/plavlenyy-syr-president-my-cheese-so-vkusom-vasabi-125-g
+"Плавленый сыр Hochland, сливочный, 55%, 400 г",395.00,https://samokat.ru/product/plavlenyy-syr-hochland-slivochnyy-55-400-g
+"Плавленый сыр Président, сливочный, 45%, 400 г",479.00,https://samokat.ru/product/plavlenyy-syr-president-slivochnyy-45-400-g
+"Плавленый сыр Hochland, Сэндвич, 45%, 150 г",199.00,https://samokat.ru/product/plavlenyy-syr-hochland-sendvich-45-150-g
+"Плавленый сыр Viola, Финское избранное, 8 порций, 45%, 130 г",149.00,https://samokat.ru/product/plavlenyy-syr-viola-finskoe-izbrannoe-8-portsiy-45-130-g
+"Плавленый сыр President My Cheese, чеддер, 125 г",239.00,https://samokat.ru/product/plavlenyy-syr-president-my-cheese-chedder-125-g
+"Плавленый сыр Авида, с грибами, 140 г",139.00,https://samokat.ru/product/plavlenyy-syr-avida-s-gribami-140-g
+"Плавленый сыр Авида, сливочный, 140 г",139.00,https://samokat.ru/product/plavlenyy-syr-avida-slivochnyy-140-g
+"Плавленый сыр President My Cheese, паприка, 125 г",239.00,https://samokat.ru/product/plavlenyy-syr-president-my-cheese-paprika-125-g
+"Плавленый сыр Бежин луг, 50%, 200 г",169.00,https://samokat.ru/product/plavlenyy-syr-bezhin-lug-50-200-g
+"Плавленый сыр Hochland, индейка с прованскими травами, 230 г",279.00,https://samokat.ru/product/plavlenyy-syr-hochland-indeyka-s-provanskimi-travami-230-g
+"Плавленый сыр Hochland, грибы с луком, 230 г",225.00,https://samokat.ru/product/plavlenyy-syr-hochland-griby-s-lukom-230-g
+"Плавленый сыр Hochland, Гриль чиз, ломтики, 40%, 150 г",179.00,https://samokat.ru/product/plavlenyy-syr-hochland-gril-chiz-lomtiki-40-150-g
+"Плавленый сыр Viola, Hunter Parmesan, 180 г",185.00,https://samokat.ru/product/plavlenyy-syr-viola-hunter-parmesan-180-g
+"Плавленый сыр Viola, Black Pepper, 180 г",185.00,https://samokat.ru/product/plavlenyy-syr-viola-black-pepper-180-g
+"Плавленый сыр Hochland, Чизбургер, 50%, 200 г",205.00,https://samokat.ru/product/plavlenyy-syr-hochland-chizburger-50-200-g
+"Плавленый сыр Président, сливочный, 45%, 140 г",219.00,https://samokat.ru/product/plavlenyy-syr-president-slivochnyy-45-140-g
+"Плавленый сыр White Cheese From Zhukovka Cream Collection, Brie, 125 г",185.00,https://samokat.ru/product/plavlenyy-syr-white-cheese-from-zhukovka-cream-collection-brie-125-g
+"Плавленый сыр White Cheese From Zhukovka Cream Collection, Сamembert, 125 г",185.00,https://samokat.ru/product/plavlenyy-syr-white-cheese-from-zhukovka-cream-collection-samembert-125-g
