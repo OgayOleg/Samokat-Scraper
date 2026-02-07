@@ -50,11 +50,14 @@ PROXY=
 Как получить AUTH_TOKEN и API_URL (пример)
 
 Открой https://samokat.ru/category/molochnoe-i-yaytsa в браузере.
+
 Включи DevTools (F12) → вкладка Network.
 Обнови страницу, прокрути товары, найди запрос к https://api-web.samokat.ru/....
+
 В этом запросе:
-во вкладке Headers скопируй:
-полный URL → это твой API_URL,
-заголовок authorization: Bearer … → это твой AUTH_TOKEN.
-Без актуального AUTH_TOKEN этот API отдаёт либо ошибку, либо HTML/заглушку.
+-во вкладке Headers скопируй:
+-полный URL → это твой API_URL,
+-заголовок authorization: Bearer … → это твой AUTH_TOKEN. (Токен обновляется часто, поэтому токен нужно обновлять вручнутю и добавлять .env)
+-Без актуального AUTH_TOKEN этот API отдаёт либо ошибку, либо HTML/заглушку.
+
 
